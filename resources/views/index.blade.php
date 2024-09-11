@@ -87,13 +87,13 @@
                                         </div>
                                         <div class="service__content">
                                             <div class="service__heading">
-                                                <h5><a href="{{route('products2')}}">Cryptocurrencies</a></h5>
+                                                <h5><a href="{{route('products')}}">Cryptocurrencies</a></h5>
                                             </div>
                                             <div class="service__text">
                                                 <p>Sagittis purus sit amet volutpat consequat mauris nunc congue nisi</p>
                                             </div>
                                             <div class="service__icon">
-                                                <a href="{{route('products2')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     </svg>
@@ -114,13 +114,13 @@
                                         </div>
                                         <div class="service__content">
                                             <div class="service__heading">
-                                                <h5><a href="{{route('products3')}}">Equities</a></h5>
+                                                <h5><a href="{{route('products')}}">Equities</a></h5>
                                             </div>
                                             <div class="service__text">
                                                 <p>Sagittis purus sit amet volutpat consequat mauris nunc congue nisi</p>
                                             </div>
                                             <div class="service__icon">
-                                                <a href="{{route('products3')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     </svg>
@@ -142,13 +142,13 @@
                                     </div>
                                     <div class="service__content">
                                         <div class="service__heading">
-                                            <h5><a href="{{route('products4')}}">Commodities</a></h5>
+                                            <h5><a href="{{route('products')}}">Commodities</a></h5>
                                         </div>
                                         <div class="service__text">
                                             <p>Sagittis purus sit amet volutpat consequat mauris nunc congue nisi</p>
                                         </div>
                                         <div class="service__icon">
-                                            <a href="{{route('products4')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 </svg>
@@ -170,13 +170,13 @@
                                     </div>
                                     <div class="service__content">
                                         <div class="service__heading">
-                                            <h5><a href="{{route('products5')}}">Financial Planning</a></h5>
+                                            <h5><a href="{{route('products')}}">Financial Planning</a></h5>
                                         </div>
                                         <div class="service__text">
                                             <p>Sagittis purus sit amet volutpat consequat mauris nunc congue nisi</p>
                                         </div>
                                         <div class="service__icon">
-                                            <a href="{{route('products5')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 </svg>
