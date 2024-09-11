@@ -17,8 +17,6 @@
     <link rel="stylesheet" href="{{ asset('css/glightbox.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/swiper-bundle.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/style.css')}}">
-
-    
     <script>
         // On page load or when changing themes, best to add inline in `head` to avoid FOUC
         if (localStorage.getItem("theme-color") === "dark" || (!("theme-color" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
@@ -28,12 +26,11 @@
           document.documentElement.classList.remove("is_dark");
         } 
     </script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
-
 
 <body>
     @include('layouts.inc.navbar')
-    {{-- @include('layouts.inc.productbar') --}}
 
     <main>
         @yield('content')
@@ -47,7 +44,7 @@
     <script src="{{ asset('js/plugins.js')}}"></script>
     <script src="{{ asset('js/swiper-bundle.min.js')}}"></script>
     <script src="{{ asset('js/main.js')}}"></script>
-
+    <script src="{{ asset('resources/js/app.js')}}"></script>
 </body>
 
 </html>

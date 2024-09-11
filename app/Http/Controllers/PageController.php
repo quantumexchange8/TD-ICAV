@@ -20,30 +20,15 @@ class PageController extends Controller
     return view('about-details');
     }
 
-    public function products1()
+    public function products()
     {
-    return view('products1');
+    return view('products');
     }
 
-    public function products2()
+
+    public function departments()
     {
-    return view('products2');
-    }
-    public function products3()
-    {
-    return view('products3');
-    }
-    public function products4()
-    {
-    return view('products4');
-    }
-    public function products5()
-    {
-    return view('products5');
-    }
-    public function products6()
-    {
-    return view('products6');
+    return view('departments');
     }
 }
 

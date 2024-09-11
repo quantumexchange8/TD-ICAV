@@ -10,17 +10,8 @@ Route::get('/', function () {
 Route::get('/index', [PageController::class, 'index'])->name('index');
 
 Route::get('/about', [PageController::class, 'about'])->name('about');
-
 Route::get('/about-details', [PageController::class, 'aboutdetails'])->name('about-details');
 
-Route::get('/products', [PageController::class, 'products1'])->name('products1');
+Route::get('/products', [PageController::class, 'products'])->name('products');
 
-Route::get('/cryptocurrencies', [PageController::class, 'products2'])->name('products2');
-
-Route::get('/equities', [PageController::class, 'products3'])->name('products3');
-
-Route::get('/commodities', [PageController::class, 'products4'])->name('products4');
-
-Route::get('/financial-planning', [PageController::class, 'products5'])->name('products5');
-
-Route::get('/retirement-planning', [PageController::class, 'products6'])->name('products6');
+Route::get('/departments', [PageController::class, 'departments'])->name('departments');

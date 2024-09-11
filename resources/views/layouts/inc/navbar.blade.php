@@ -11,12 +11,9 @@
     
         <!-- header__start -->
         <header>
-        
-            <div class="headerarea headerarea--3 headerarea__display__none header__sticky bg__black">
-                
+            <div class="headerarea headerarea--3 headerarea__display__none header__sticky bg__black">      
                 <div class="container desktop__menu__wrapper">
                     <div class="headerarea__main__wrapper headerarea__main__wrapper--3 position-relative">
-
                         <div class="headerarea__component__wrap">
                             <div class="headerarea__component">
                                 <div class="headerarea__logo">
@@ -27,12 +24,17 @@
                                 <div class="headerarea__main__menu">
                                     <nav>
                                         <ul>
-                                            <li><a href="{{route('about') }}">ABOUT </a></li>
+                                            <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown" href="{{route('about') }}">ABOUT US<i class="icofont-long-arrow-down"></i></a>
+                                                <ul class="headerarea__submenu headerarea__submenu--five--wrap">
+                                                    <li><a href="{{route('about')}}">About Us</a></li>
+                                                    <li><a href="{{route('departments')}}">Departments</a></li>
+                                                    <li><a href="#">Career</a></li>
+                                                </ul>
+                                            </li>
 
-                                            <li><a href="{{route('products1') }}">PRODUCTS </a></li>
+                                            <li><a href="{{route('products') }}">PRODUCTS </a></li>
                                             
-
-                                            <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown" href="home-9(ecommerce).html">PORTFOLIO<i class="icofont-long-arrow-down"></i></a>
+                                            <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown" href="#">PORTFOLIO<i class="icofont-long-arrow-down"></i></a>
                                                 <ul class="headerarea__submenu headerarea__submenu--five--wrap">
                                                     <li><a href="product-details.html">Financial Planning Portfolios</a></li>
                                                     <li><a href="cart.html">The Programs of Advisory </a></li>

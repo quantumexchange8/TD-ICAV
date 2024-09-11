@@ -16,7 +16,7 @@
                                 <ul>
                                     <li><a href="{{route('index')}}">Home</a></li>
                                     <li>// </li>
-                                    <li> Products 1 </li>
+                                    <li> Products </li>
                                 </ul>
                             </div>
                         </div>
@@ -25,8 +25,7 @@
             </div>
         </div>
         <!-- breadcrumbarea__end -->
-
-  
+        
         <!-- service__details__start -->
         <div class="service__details sp_top_140 sp_bottom_160">
             <div class="container">
@@ -53,37 +52,36 @@
                                 <div class="sidebar__list">
                                     <ul>
                                         <li>
-                                            <a class="sidebar__common__input" href="#">Product 1
+                                            <a class="sidebar__common__input" href="#" data-index="1">Introduction
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="{{route('products2')}}">Cryptocurrencies
+                                            <a class="sidebar__common__input" href="#" data-index="2">Cryptocurrencies
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="{{route('products2')}}">Equities
+                                            <a class="sidebar__common__input" href="#" data-index="3">Equities
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="{{route('products2')}}">Commodities
+                                            <a class="sidebar__common__input" href="#" data-index="4">Commodities
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="{{route('products3')}}">Financial Planning
+                                            <a class="sidebar__common__input" href="#" data-index="5">Financial Planning
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
-
                                         <li>
-                                            <a class="sidebar__common__input" href="{{route('products2')}}">Retirement Planning
+                                            <a class="sidebar__common__input" href="#" data-index="6">Retirement Planning
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
@@ -92,12 +90,10 @@
                             </div>
                         </div>
                     </div>
-
                     <!-- product contents -->
                     @include('products.product-contents')
                 </div>
             </div>
         </div>
         <!-- service__details__end -->
-
 @endsection

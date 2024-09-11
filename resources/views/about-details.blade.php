@@ -24,9 +24,6 @@
                     </div>
                 </div>
             </div>
-
-        
-
         </div>
     <!-- breadcrumbarea__end -->
 
@@ -108,98 +105,5 @@
 
 
 
-
-        <!-- Related Projects -->
-        <div class="related__project  sp_bottom_140 special__spacing">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12" data-aos="fade-up" data-aos-duration="1500">
-                        <div class="section__title  text-center sp_bottom_60">
-                            <div class="section__title__button">
-                                <span class="text__gradient ">Our Projects</span>
-                            </div>
-                            <div class="section__title__heading">
-                                <h3>Related Projects</h3>
-                            </div>
-                        
-                        </div>
-                    </div>
-                </div>
-                    <div class="row position-relative">
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
-                            <div class="project__single single__transform">
-                                <div class="project__img project__img--2">
-                                    <img src="img/project/project__5.png" alt="">
-                                    <div class="project__heading project__heading--2">
-                                        <h3><a href="#">Business Process Optimization</a></h3>
-                                    </div>
-                                    <div class="project__icon project__icon--2">
-                                        <a class="direction__btn" href="blog-details.html"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            </svg>
-                                        </a>
-                                    </div>
-
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="1800">
-                            <div class="project__single single__transform">
-                                <div class="project__img project__img--2">
-                                    <img src="img/project/project__6.png" alt="">
-                                    <div class="project__heading project__heading--2">
-                                        <h3><a href="#">Market Research
-                                                and Analysis</a></h3>
-                                    </div>
-                                    <div class="project__icon project__icon--2">
-                                        <a class="direction__btn" href="blog-details.html"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            </svg>
-                                        </a>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="2100">
-                            <div class="project__single single__transform">
-                                <div class="project__img project__img--2">
-                                    <img src="img/project/project__7.png" alt="">
-                                    <div class="project__heading project__heading--2">
-                                        <h3><a href="#">Risk Assessment and Management</a></h3>
-                                    </div>
-                                    <div class="project__icon project__icon--2">
-                                        <a class="direction__btn" href="blog-details.html"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                                <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            </svg>
-                                        </a>
-                                    </div>
-                                </div>
-
-                            </div>
-                        </div>
-
-                        <div class="bastun__brand__badge related__project__badge">
-                            <div class="bastun__brand__badge__inner position-relative">
-                                <a href="index.html">
-        
-                                    <img class="bbb__animate" src="img/footer/brand__badge.png" alt="Footer badge">
-                                    <img class="bbb__icon" src="img/footer/brand__badge__inner.png" alt="Footer icon badge">
-                                </a>
-                            </div>
-                        </div>
-
-
-                    </div>
-                
-            </div>
-        </div>
-        <!-- Related Projects -->
 
 @endsection
