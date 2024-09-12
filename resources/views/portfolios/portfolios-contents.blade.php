@@ -1,30 +1,14 @@
 <div class="col-xl-8 col-lg-8 col-md-12 col-12" id="1">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
-            <h4>Introduction</h4>
+            <h4>Financial Planning Portfolios </h4>
         </div>
         <div class="service__details__text" data-aos="fade-up" data-aos-duration="1500">
-            <p>Continuous monitoring and assessments of each portfolio are carried out by our investment managers in line with risk profiling. Furthermore, in order to ensure that the ongoing management is in accordance with our expectations, each fund also undergoes an examination to see whether any revisions to the plan have been adopted. </p>
-            <p>To the best of our abilities, we also keep an eye out for any deviations from the performance expectations that are outlined within the strategy and compared to the peers. This is done to ensure that the underlying managers do not engage in any actions that might potentially hinder their capacity to deliver continued returns that are adequate. Furthermore, on a regular basis, our investment management staff will carry out a more formal review examination. 
-                By investing in asset classes that we believe will appreciate over the medium to long term and withdrawing from those that we anticipate will drop, the process of asset allocation is designed to capture more macroeconomic events. This is accomplished by investing in asset classes that we predict will appreciate. In line with the ever-changing economic cycles and financial markets, our investment management team manages the asset allocation of the portfolio in a consistent manner. This ensures that the various asset classes, including as cash, bonds, and shares, are distributed in an appropriate manner. 
-                </p>
-            <p>On the other hand, the investment mandate and the risk profile that corresponds to it guarantee that this process is managed in a consistent manner. It is the most efficient method for maintaining the performance of portfolios during particular parts of the economic cycle that asset allocation is the most successful technique. </p>
-        </div>
-        <div class="service__details__planning" data-aos="fade-up" data-aos-duration="1500">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                    <div class="service__details__planning__img">
-                        <img src="img/service/service__details__2.png" alt="">
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                    <div class="service__details__planning__inner">
-                        <div class="service__details__planning__text">
-                        <p>There is a wide variety of risk appetites that may be accommodated by our service, which is a collection of pre-designed portfolios that are customized to meet those needs. An evaluation of your goals will be performed by your personal adviser in order to determine which of the available options is the most appropriate for you. The extra information that you require concerning the past performance of each portfolio as well as its current structure will be provided to you by your adviser. </p>    
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <p>The formulation of a financial plan gives a client the ability to evaluate their strategy for retirement and determine the projection of their existing assets and resources into future income in order to accomplish their goals for the future. The cornerstone of any activity that is effective is a plan that has been carefully devised.</p>
+            <p>As an independent financial adviser, our duty in your investment planning is to assist you in determining your goals and objectives, and to engage with you in the building and oversight of a portfolio that is compatible with the investing principles of wealth allocation. To guarantee that our interests are aligned, our fee structure was developed with that goal in mind. Our fee structure is designed to incentivize success, which places a president in a position that is in contrast to the deal fee model. </p>
+            <p>Regardless of how you believe an effective investment plan should be implemented; we are able to assist you in putting it into action. We will establish the income and activities that are necessary at each step, and along with our rigorous investment management, financial forecasts, income and tax techniques, and a well-crafted strategy, you will be able to achieve the goals that you have set for yourself. </p>
+            <p>We provide a wide range of products that are suitable for any investing strategy, whether you are looking to generate income or preserve money. Determining the method in which your assets are invested and making adjustments as required are both important steps. Additionally, depending on the particulars of your situation, you may be able to keep track of your assets by combining various plans into a single one. In each and every one of our initiatives, we exhibit transparency, forthrightness, and accountability. There will never be a time when you are not informed about the whereabouts and performance of your money. Additionally, we are of the idea that communication is of similar importance when it comes to investment. Our work is something that we are very proud of, and we are excited to show it to you. </p>
+            <p>We have a service-oriented and customer-focused culture that is deeply established in our organization. Our group is committed to boosting the financial well-being of our customers and providing them with the means to lead lives that are more satisfying. Our approach to investing is uncomplicated and involves direct participation. When it comes to creating investment portfolios for you, we depend on our own first-hand research, trust our instincts, and benefit from our years of experience. This allows us to design the most remarkable portfolios possible.</p>
         </div>
     </div>
 </div>
@@ -32,13 +16,25 @@
 <div class="col-xl-8 col-lg-8 col-md-12 col-12" id="2" >
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
-            <h4>Cryptocurrencies</h4>
+            <h4>The Programs of Advisory </h4>
         </div>
         <div class="service__details__text" data-aos="fade-up" data-aos-duration="1500">
-            <p>In spite of the fact that cryptocurrencies may in fact represent the subsequent big step in the growth of the internet, they also offer an alarming degree of complexity that makes it impossible to analyze the most current news flow and poses a problem for investors who are just starting out.</p>
-            <p>Recent articles have focused on the increase and subsequent decrease in the price of bitcoin, as well as the entrance of new cryptocurrencies into the market. Additionally, the stories have focused on the rising price of bitcoin. It is only natural for investors who have not yet made any investments in the bitcoin market to be uncertain about whether or not they should venture into the market at this time or whether or not they have missed the boat. One of the areas in which we are able to offer assistance is this one. </p>
-            <p>Access to cryptocurrency funds and portfolios that are systematically diversified and do not require any additional complexity is something that we provide and provide assistance with. The process of navigating this fascinating new asset class is made easier for inexperienced investors by the existence of a crypto fund, which is a simplified version of traditional funds. As an alternative to you personally acquiring and trading cryptocurrencies, a cryptocurrency fund would acquire and trade them on your behalf. This is in contrast to the situation in which you would do so.</p>
-            <p>Not only will our portfolio managers and traders decide which initial coin offerings (ICOs) to invest in and which ones to avoid, but they will also decide which currencies to purchase and sell. Your investment will be guaranteed to create earnings thanks to their assurances. Consequently, they are entitled to a portion of the profits as management and performance fees in exchange for their services. </p>    
+            <h7>DIFFERENT TYPES OF ADVISORY PROGRAMS </h7>
+            <p>In order to better grasp your situation and your goals, we will make an effort to learn about them. These are some of the most significant talks that you will ever have, therefore it is imperative that you get off to a good start. </p>
+            <h7>THE OPTIONS FOR INVESTMENT</h7>
+            <p>When it comes to the preparation of one's money, there is no unifying approach that is appropriate for all individuals. This is the reason why we work with a diverse selection of goods and service suppliers. </p>
+            <h7>THE ULTIMATE PLAN </h7>
+            <p>Through the process of exploring your alternatives and drawing on our expertise and experience, you will be able to have the assurance that the strategy that we develop together will fulfill the requirements that you have set forth. </p>
+            <h7>KEEPING UP WITH COURSE </h7>
+            <p>Having conversations on a consistent basis is essential to staying on top of things. When circumstances change, we will work with you to modify your plans in order to ensure that you remain on track to achieve your objectives. </p>
+            <h7>ALLOCATION OF ASSETS </h7>
+            <p>When it comes to the generation of investment returns, asset allocation is a significant factor. Different types of assets and categories of industries each bring with them a unique set of prospects. </p>
+            <h7>THE BEST OPTIONS TO MAKE </h7>
+            <p>When it comes to making the proper decisions, having knowledge that is up to date and the capacity to re-allocate assets in a nimble manner in response to the fluctuation and flow of the market are essential. </p>
+            <h7>ULTRA-PERSONALIZED GOALS </h7>
+            <p>Your money will be invested across a variety of assets after we have gained an understanding of your goals, your tolerance for risk, and the time horizon you have available to us. </p>
+            <h7>IMMEDIATE SUGGESTIONS </h7>
+            <p>We are always ready to meet with you in person, over the phone, or via email, and we will evaluate your goals on a frequent basis in order to assist you in being grounded.</p>
         </div>
     </div>
 </div>
@@ -46,14 +42,19 @@
 <div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="3">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
-            <h4>Equities</h4>
+            <h4>Portfolios that are Personalized </h4>
         </div>
         <div class="service__details__text" data-aos="fade-up" data-aos-duration="1500">
-            <p>When compared to more secure investments, such as bank accounts and bonds, the performance of equity investments has historically been superior. Equity investments have the potential to be the principal driver of growth in your investment portfolio. Investing in stocks, on the other hand, exposes you to the possibility of losing all or a portion of your wealth. When examining the possibility of investing in stocks and the many different types that are accessible, it is essential to take extreme caution because shares are regarded as the asset class that carries the highest level of risk. It is a well-known fact that direct investments in stocks can be risky due to the fact that they are dependent on the success of a relatively limited number of firms. </p>
-            <p>The reason we carry out our research and perform our due diligence is because of this, and it is also the reason why acquiring stocks through an investment fund that is managed by our firm is substantially safer. This is because we invest in a wide variety of shares from a variety of companies. In order to accomplish the goals of diversification or risk distribution, equity funds often focus their assets on a wide range of nations, regions, sectors, and investing techniques. There are many different types of equity funds, and each one has its own set of features and degree of risk that are exclusive to itself. </p>
-            <p>Growth in capital and dividends are the two components that make up the return on equity investments. Dividend payments, which are normally issued twice a year, are the means by which the earnings of the firm are dispersed. The dividend payout is greater and the firm is more lucrative, thus you are more likely to get dividends from larger, more established companies. This is because the dividend payout itself is larger. Larger corporations are more likely to spend their earnings in order to grow their operations, which means that smaller companies are less likely to pay dividends to their shareholders. Nevertheless, if a less successful firm goes on to attain success, the value of your shares can increase. There is the potential for a profit to be made by selling your shares at a price that is higher than the price that you paid for them. Consequently, this results in the expansion of capital, which is the initial investment.</p>
-            <p>The level of risk that an individual investor is willing to take will determine how much of a fluctuation any structured investment program will experience. A wide range of derivatives and fixed income markets are included in the category of structured products. It is for this reason that structured investment programs are built in such a way as to properly cater to the requirements of the investor</p>
-            <p>Investors who are more risk tolerant will have a bigger exposure to equity and derivatives markets, while investors who are more conservative would have a greater exposure to fixed income markets. Structured products are widely used as an alternative to direct investments or to allocate assets in a portfolio against risk exposure. This is another reason why structured products are so popular.</p>
+            <p>There is a wide variety of risk appetites that may be accommodated by our service, which is a collection of pre-designed portfolios that are customized to meet those needs. An evaluation of your goals will be performed by your personal adviser in order to determine which of the available options is the most appropriate for you. The extra information that you require concerning the past performance of each portfolio as well as its current structure will be provided to you by your adviser. </p>
+            <h7>MINIMUM RISK PORTFOLIO WITH PORTFOLIO </h7>
+            <p>You are uncomfortable with the concept of investing the majority of your portfolio in assets that carry a greater level of risk, such as stocks and shares. Your primary objective is to protect the value of your investments from the effects of inflation, and you place a high priority on capital preservation. It is likely that your portfolio will be more evenly balanced between investments in fixed income and investments in equity more than it is currently. </p>
+            <h7>PORTFOLIO OF RISKS THAT ARE MEDIUM </h7>
+            <p>You are willing to accept a greater short-term possibility for losses from your entire portfolio and dedicate a significant portion of it to assets that carry a higher level of risk in order to achieve the goal of achieving possibly better returns over the long run on your investments. A low to moderate amount of market volatility is likely to be experienced by your portfolio, and it is possible that your portfolio will have a greater exposure to equity assets than fixed income investments. </p>
+            <h7>A PORTFOLIO WITH HIGH RISK </h7>
+            <p>In order to accomplish your long-term investing goals, you are ready to accept the possibility of experiencing higher losses in the short term and are at ease with the idea of putting a greater proportion of your cash at risk. Additionally, you are intrigued in the possibility of earning substantial returns on your investment. In general, your portfolio will contain a very high proportion of investments in equities and a very low proportion of investments in fixed income stocks and bonds. It is quite likely that your portfolio will be subject to market volatility that falls anywhere between moderate and high level. </p>
+            <h7>PLANTS FOR INVESTMENT THAT ARE STRUCTURED </h7>
+            <p>According to our point of view, every single person has the right to get competent financial advice, a complete financial plan that can be altered as life unfolds, and financial education that is simple and straightforward to understand. As our customer, you will receive aid in accomplishing your goals, a caring ear that is responsive to your requirements, and plain explanations of usually complex financial matters. All of these things will be provided to you. </p>
+            <p>Investment plan tools that are not only user-friendly but also give you with comprehensive financial guidance are available from our company. In our capacity as a Registered Investment Advisory company, we are your fiduciary, and we are dedicated to operating in a manner that is in your best interest. You are going to be provided with a customized portfolio that is customized to match the specific financial requirements and goals of each individual. </p>
         </div>
     </div>
 </div>

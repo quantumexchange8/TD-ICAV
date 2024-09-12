@@ -1,24 +1,23 @@
 @extends('layouts.master')
+
 @section('content')
 <script src="{{ asset('js/app.js')}}"></script>
-<title>Departments</title>
+<title>Portfolios</title>
 
         <!-- breadcrumbarea__start -->
-        <div class="breadcrumbarea aos-init aos-animate" data-aos="fade-up" style="background: url(img/about/about__bg__1.jpg);">
+        <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12" data-aos="fade-up" data-aos-duration="1500">
                         <div class="breadcrumbarea__content__wraper">
                             <div class="breadcrumbarea__title">
-                                <h2 class="heading">Departments</h2>
+                                <h2 class="heading">Portfolios</h2>
                             </div>
                             <div class="breadcrumbarea__inner">
                                 <ul>
                                     <li><a href="/index">Home</a></li>
                                     <li>// </li>
-                                    <li><a href="/about">About Us</a></li>
-                                    <li>// </li>
-                                    <li> Departments </li>
+                                    <li> Portfolios </li>
                                 </ul>
                             </div>
                         </div>
@@ -27,14 +26,10 @@
             </div>
         </div>
         <!-- breadcrumbarea__end -->
-
-        <!-- department__details__start -->
         
-        <div class="service__details sp_top_120 sp_bottom_160">
+        <!-- service__details__start -->
+        <div class="service__details sp_top_140 sp_bottom_160">
             <div class="container">
-                <div class="section__title">
-                    <p>Continue to investigate our services to determine which ones are most appropriate for your needs. We use the following layout to organize our departments:</p>
-                </div>
                 <div class="row">
                     <div class="col-xl-4 col-lg-4 col-md-12 col-12">
                         <div class="service__details__sidebar sidebar">
@@ -50,81 +45,29 @@
                                     </form>
                                 </div>
                             </div>
-
                             <div class="sidebar__widget" data-aos="fade-up" data-aos-duration="1800">
                                 <div class="sidebar__title">
-                                    <h5>All Departments:</h5>
+                                    <h5>All Portfolios:</h5>
                                 </div>
                                 <div class="sidebar__list">
                                     <ul>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="1">The Development Of Businesses
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="2">Engineering And Technology
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="3">Facilities Team
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="4">Finance Team
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="5">Human Resources
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="6">Compliance And Legal Issues
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="7">Advertising And Marketing
+                                            <a class="sidebar__common__input" data-content="1">Financial Planning Portfolios
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="8">Operations
+                                            <a class="sidebar__common__input" data-content="2">The Programs of Advisory
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="9">Investment In Portfolios
+                                            <a class="sidebar__common__input" data-content="3">Portfolios that are Personalized 
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="10">Portfolio Implementation Team
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="11">Conducting An Investigation
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="12">Risk Management Team
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-content="13">Global Trading Strategies Team
+                                            <a class="sidebar__common__input" data-content="4">Providers of Advisory Services 
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
@@ -133,11 +76,11 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- department contents -->
-                    @include('departments.department-contents')
+                    <!-- product contents -->
+                    @include('portfolios.portfolios-contents')
                 </div>
             </div>
         </div>
-        <!-- department__details__end -->
+        <!-- service__details__end -->
 @endsection
+

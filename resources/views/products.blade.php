@@ -1,8 +1,8 @@
 @extends('layouts.master')
 
 @section('content')
+<script src="{{ asset('js/app.js')}}"></script>
 <title>Products</title>
-
         <!-- breadcrumbarea__start -->
         <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
             <div class="container">
@@ -14,7 +14,7 @@
                             </div>
                             <div class="breadcrumbarea__inner">
                                 <ul>
-                                    <li><a href="{{route('index')}}">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li>// </li>
                                     <li> Products </li>
                                 </ul>
@@ -44,7 +44,6 @@
                                     </form>
                                 </div>
                             </div>
-
                             <div class="sidebar__widget" data-aos="fade-up" data-aos-duration="1800">
                                 <div class="sidebar__title">
                                     <h5>All Services:</h5>
@@ -52,36 +51,32 @@
                                 <div class="sidebar__list">
                                     <ul>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-index="1">Introduction
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-index="2">Cryptocurrencies
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-index="3">Equities
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-index="4">Commodities
-                                                <i class="icofont-rounded-right"></i>
-                                            </a>
-                                        </li>
-
-                                        <li>
-                                            <a class="sidebar__common__input" href="#" data-index="5">Financial Planning
+                                            <a class="sidebar__common__input" data-content="1">Introduction
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-index="6">Retirement Planning
+                                            <a class="sidebar__common__input" data-content="2">Cryptocurrencies
+                                                <i class="icofont-rounded-right"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="sidebar__common__input" data-content="3">Equities
+                                                <i class="icofont-rounded-right"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="sidebar__common__input" data-content="4">Commodities
+                                                <i class="icofont-rounded-right"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="sidebar__common__input" data-content="5">Financial Planning
+                                                <i class="icofont-rounded-right"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="sidebar__common__input" data-content="6">Retirement Planning
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>

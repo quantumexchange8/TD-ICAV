@@ -7,11 +7,35 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/index', [PageController::class, 'index'])->name('index');
 
-Route::get('/about', [PageController::class, 'about'])->name('about');
-Route::get('/about-details', [PageController::class, 'aboutdetails'])->name('about-details');
+Route::get('/about', function () {
+    return view('about');
+});
 
-Route::get('/products', [PageController::class, 'products'])->name('products');
+Route::get('/about-details', function () {
+    return view('about-details');
+});
 
-Route::get('/departments', [PageController::class, 'departments'])->name('departments');
+Route::get('/products', function () {
+    return view('products');
+});
+
+Route::get('/departments', function () {
+    return view('departments');
+});
+
+Route::get('/portfolios', function () {
+    return view('portfolios');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
+
+Route::get('/login', function () {
+    return view('login');
+});
+
+Route::get('/career', function () {
+    return view('career');
+});

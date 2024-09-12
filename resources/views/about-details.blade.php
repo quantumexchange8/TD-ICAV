@@ -13,9 +13,9 @@
                             </div>
                             <div class="breadcrumbarea__inner">
                                 <ul>
-                                    <li><a href="{{route('index')}}">Home</a></li>
+                                    <li><a href="/index">Home</a></li>
                                     <li>// </li>
-                                    <li><a href="{{route('about')}}">About Us</a></li>
+                                    <li><a href="/about">About Us</a></li>
                                     <li>// </li>
                                     <li> Details </li>
                                 </ul>
@@ -101,9 +101,6 @@
             </div>
         </div>
          <!-- all__project end -->
-
-
-
 
 
 @endsection

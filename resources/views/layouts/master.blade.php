@@ -26,7 +26,6 @@
           document.documentElement.classList.remove("is_dark");
         } 
     </script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
@@ -44,7 +43,8 @@
     <script src="{{ asset('js/plugins.js')}}"></script>
     <script src="{{ asset('js/swiper-bundle.min.js')}}"></script>
     <script src="{{ asset('js/main.js')}}"></script>
-    <script src="{{ asset('resources/js/app.js')}}"></script>
+    
+
 </body>
 
 </html>
