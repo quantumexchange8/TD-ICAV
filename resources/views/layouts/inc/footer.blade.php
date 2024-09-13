@@ -100,7 +100,6 @@
                 </div>
 
                 <div class="copyright">
-
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                             <div class="copyright__left">

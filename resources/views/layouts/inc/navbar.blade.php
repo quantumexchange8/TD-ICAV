@@ -31,21 +31,10 @@
                                                 <ul class="headerarea__submenu headerarea__submenu--five--wrap">
                                                     <li><a href="/about">About Us</a></li>
                                                     <li><a href="/departments">Departments</a></li>
+                                                    <li><a href="/strategies">Strategies & Methodologies</a></li>
                                                     <li><a href="/career">Career</a></li>
                                                     <li><a href="/history">History(pg10)</a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown" href="home-9(ecommerce).html">STRATEGIES & METHODOLOGIES<i class="icofont-long-arrow-down"></i></a>
-                                                <ul class="headerarea__submenu headerarea__submenu--five--wrap">
-                                                    <li>
-                                                        <a href="shop.html">Strategies(pg5)<span class="headerarea__menu__special__label">Online Store</span><i class="icofont-long-arrow-right"></i></a>
-                                                        <ul class="headerarea__submenu--five">
-                                                            <li><a href="shop-2-column.html">Shop 2 Column</a></li>
-                                                            <li><a href="shop.html">Shop 3 Column</a></li>
-                                                            <li><a href="shop-4-column.html">Shop 4 Column</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="product-details.html">Methodologies</a></li>
+                                                    <li><a href="/academic">Academic Activities and Participation </a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="/products">PRODUCTS </a></li> 
@@ -82,7 +71,7 @@
                             </a>
                         </div>
                         <div class="mobile__log">
-                            <div class="mobile__log--title"><a class="mobile__log--link" href="{/index">
+                            <div class="mobile__log--title"><a class="mobile__log--link" href="/index">
                                 <img class="mobile__log--img" src="img/logo/Logo_1.png" alt="logo-img">
                             </a></div>
                         </div>
@@ -116,8 +105,8 @@
                             <a class="offcanvas__menu_item" href="/about">ABOUT</a>
                             <ul class="offcanvas__sub_menu">
                                 <li class="offcanvas__sub_menu_li"><a href="/about" class="offcanvas__sub_menu_item">About Us</a>
-                                    <li class="offcanvas__sub_menu_li"><a href="/departments')}}" class="offcanvas__sub_menu_item">Departments</a>
-                                        <li class="offcanvas__sub_menu_li"><a href="/career" class="offcanvas__sub_menu_item">Career</a>
+                                    <li class="offcanvas__sub_menu_li"><a href="/departments" class="offcanvas__sub_menu_item">Departments</a>
+                                    <li class="offcanvas__sub_menu_li"><a href="/career" class="offcanvas__sub_menu_item">Career</a>
                                 </li>
                             </ul>
                         </li>

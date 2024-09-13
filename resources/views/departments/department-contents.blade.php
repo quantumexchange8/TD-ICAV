@@ -1,4 +1,5 @@
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="1">
+<script src="{{ asset('js/app.js')}}"></script>
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="1">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>The Development of Businesses</h4>
@@ -11,7 +12,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="2" >
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="2" >
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Engineering and Technology</h4>
@@ -23,7 +24,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="3">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="3">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Facilities Team </h4>
@@ -34,7 +35,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12"  id="4">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="4">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4> Finance Team</h4>
@@ -45,7 +46,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="5">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="5">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -57,7 +58,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="6">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="6">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -72,7 +73,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="7">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="7">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -84,7 +85,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="8">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="8">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -96,7 +97,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="9">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="9">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -108,7 +109,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="10">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="10">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -120,7 +121,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="11">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="11">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -132,7 +133,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="12">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="12">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -144,7 +145,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="13">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="13">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -155,3 +156,4 @@
         </div>
     </div>
 </div>
+

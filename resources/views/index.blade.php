@@ -60,21 +60,13 @@
                                         </div>
                                         <div class="service__content">
                                             <div class="service__heading">
-<<<<<<< Updated upstream
-                                                <h5><a href="{{route('products')}}">Introduction</a></h5>
-=======
                                                 <h5><a href="/products">Introduction</a></h5>
->>>>>>> Stashed changes
                                             </div>
                                             <div class="service__text">
                                                 <p>Continuous monitoring and assessments of each portfolio are carried out by our investment managers in line with risk profiling.</p>
                                             </div>
                                             <div class="service__icon">
-<<<<<<< Updated upstream
-                                                <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-=======
                                                 <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
->>>>>>> Stashed changes
                                                     <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     </svg>
@@ -95,21 +87,13 @@
                                         </div>
                                         <div class="service__content">
                                             <div class="service__heading">
-<<<<<<< Updated upstream
-                                                <h5><a href="{{route('products')}}">Cryptocurrencies</a></h5>
-=======
                                                 <h5><a href="/products">Cryptocurrencies</a></h5>
->>>>>>> Stashed changes
                                             </div>
                                             <div class="service__text">
                                                 <p>In spite of the fact that cryptocurrencies may in fact represent the subsequent big step in the growth of the internet.</p>
                                             </div>
                                             <div class="service__icon">
-<<<<<<< Updated upstream
-                                                <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-=======
                                                 <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
->>>>>>> Stashed changes
                                                     <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     </svg>
@@ -130,21 +114,13 @@
                                         </div>
                                         <div class="service__content">
                                             <div class="service__heading">
-<<<<<<< Updated upstream
-                                                <h5><a href="{{route('products')}}">Equities</a></h5>
-=======
                                                 <h5><a href="/products">Equities</a></h5>
->>>>>>> Stashed changes
                                             </div>
                                             <div class="service__text">
                                                 <p>Equity investments have the potential to be the principal driver of growth in your investment portfolio. </p>
                                             </div>
                                             <div class="service__icon">
-<<<<<<< Updated upstream
-                                                <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-=======
                                                 <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
->>>>>>> Stashed changes
                                                     <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                     </svg>
@@ -166,21 +142,13 @@
                                     </div>
                                     <div class="service__content">
                                         <div class="service__heading">
-<<<<<<< Updated upstream
-                                            <h5><a href="{{route('products')}}">Commodities</a></h5>
-=======
                                             <h5><a href="/products">Commodities</a></h5>
->>>>>>> Stashed changes
                                         </div>
                                         <div class="service__text">
                                             <p>The commodities that are used in everyday life, such as gold, silver, and oil, have a tremendous impact on that existence.</p>
                                         </div>
                                         <div class="service__icon">
-<<<<<<< Updated upstream
-                                            <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-=======
                                             <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
->>>>>>> Stashed changes
                                                 <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 </svg>
@@ -202,21 +170,13 @@
                                     </div>
                                     <div class="service__content">
                                         <div class="service__heading">
-<<<<<<< Updated upstream
-                                            <h5><a href="{{route('products')}}">Financial Planning</a></h5>
-=======
                                             <h5><a href="/products">Financial Planning</a></h5>
->>>>>>> Stashed changes
                                         </div>
                                         <div class="service__text">
                                             <p>Our duty in your investment planning is to assist you in determining your goals and objectives.</p>
                                         </div>
                                         <div class="service__icon">
-<<<<<<< Updated upstream
-                                            <a href="{{route('products')}}"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-=======
                                             <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
->>>>>>> Stashed changes
                                                 <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
                                                 </svg>

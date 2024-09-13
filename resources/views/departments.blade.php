@@ -1,6 +1,5 @@
 @extends('layouts.master')
 @section('content')
-<script src="{{ asset('js/app.js')}}"></script>
 <title>Departments</title>
 
         <!-- breadcrumbarea__start -->
@@ -141,3 +140,4 @@
         </div>
         <!-- department__details__end -->
 @endsection
+

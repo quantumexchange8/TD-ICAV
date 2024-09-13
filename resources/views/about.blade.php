@@ -123,11 +123,8 @@
                     <div class="col-xl-12" data-aos="fade-up" data-aos-duration="1500">
                         <div class="section__title  text-center sp_bottom_60">
                             <div class="section__title__button">
-                                <span class="text__gradient ">Our Projects</span>
-                            </div>
-                            <div class="section__title__heading">
-                                <h3>Related Projects</h3>
-                            </div>                        
+                                <span class="text__gradient ">More About Us</span>
+                            </div>                      
                         </div>
                     </div>
                 </div>
@@ -137,10 +134,10 @@
                                 <div class="project__img project__img--2">
                                     <img src="img/project/project__5.png" alt="">
                                     <div class="project__heading project__heading--2">
-                                        <h3><a href="#">Business Process Optimization</a></h3>
+                                        <h3><a href="/history">History</a></h3>
                                     </div>
                                     <div class="project__icon project__icon--2">
-                                        <a class="direction__btn" href="blog-details.html"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <a class="direction__btn" href="/history"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
                                                 <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
                                             </svg>
@@ -155,11 +152,10 @@
                                 <div class="project__img project__img--2">
                                     <img src="img/project/project__6.png" alt="">
                                     <div class="project__heading project__heading--2">
-                                        <h3><a href="#">Market Research
-                                                and Analysis</a></h3>
+                                        <h3><a href="/career">Career</a></h3>
                                     </div>
                                     <div class="project__icon project__icon--2">
-                                        <a class="direction__btn" href="blog-details.html"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <a class="direction__btn" href="/career"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
                                                 <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
                                             </svg>
@@ -174,10 +170,10 @@
                                 <div class="project__img project__img--2">
                                     <img src="img/project/project__7.png" alt="">
                                     <div class="project__heading project__heading--2">
-                                        <h3><a href="#">Risk Assessment and Management</a></h3>
+                                        <h3><a href="/departments">Departments</a></h3>
                                     </div>
                                     <div class="project__icon project__icon--2">
-                                        <a class="direction__btn" href="blog-details.html"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <a class="direction__btn" href="/departments"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
                                                 <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"></path>
                                             </svg>

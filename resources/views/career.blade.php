@@ -1,60 +1,209 @@
 @extends('layouts.master')
+
 @section('content')
-<script src="{{ asset('css/app.css')}}"></script>
+
 <title>Career</title>
-<div class="service__video__sec__wrap" style="background: var(--pinkcolor) url(img/service/service__bg__2.png);">
-
-    <!-- service__section__start -->
-    <div class="service__2 sp_top_140  special__spacing" id="service__area">
-        <div class="container">
-            <div class="row" data-aos="fade-up" data-aos-duration="1500">
-                <div class="col-xl-12">
-                    <div class="section__title text-center sp_bottom_50">
-                        <div class="section__title__button">
-                            <span class="text__gradient">Career Opportunity</span>
-                        </div>
-                        <div class="section__title__heading">
-                            <h3>TD-ICAV offers opportunities to advance your career.</h3>
-                        </div>
-                        <div class="section__text">
-                            <p>Keep learning, sharing, exploring, asking questions, taking the lead, and improving.</p>
-                            <p>Conduct an investigation into your options. We promote open-mindedness and a never-ending thirst for knowledge.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> 
-    </div>
-    <!-- service__section__end -->
-
-    <!-- video__section__start -->
-    <div class="video__2 sp_bottom_140">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="video__img position-relative" data-aos="fade-up" data-aos-duration="1500">
-                        <div class="video__text video__text--1">
-                            <h2>PLAYBACK <br> <span class="video__text__spacing">OF VIDEOS</span></h2>
-                        </div>
-                        <img src="img/video/video__3.png" alt="">
-                        <div class="video__small__img">
-                            <img src="img/video/video__4.png" alt="">
-                        </div>
-                        <div class="video__button">
-                            <a class="video__card--link glightbox" data-gallery="video_popup" href="">
-                                <svg width="13" height="15" viewBox="0 0 13 15" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M13 7.5L0.250002 14.8612L0.250003 0.138783L13 7.5Z" fill="#F8422E" />
-                                </svg>
-                            </a>
+        <!-- breadcrumbarea__start -->
+        <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-12" data-aos="fade-up" data-aos-duration="1500">
+                        <div class="breadcrumbarea__content__wraper">
+                            <div class="breadcrumbarea__title">
+                                <h2 class="heading">Career Opportunity</h2>
+                            </div>
+                            <div class="breadcrumbarea__inner">
+                                <ul>
+                                    <li><a href="/">Home</a></li>
+                                    <li>// </li>
+                                    <li><a href="/about">About Us</a></li>
+                                    <li>// </li>
+                                    <li> Career </li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- breadcrumbarea__end -->
+    <!-- herobanner__section__start -->
+    <div class="herobanner d-flex align-items-center height__800 bg__image position-relative careerbanner__margin" style="background:  var(--pinkcolor) url(img/herobaner/herobanner__bg__5.png);">
+        <div class="container-fluid full__width__padding">
+            <div class="herobanner__wrapper">
+                <div class="herobanner__single">
+                    <div class="row align-items-center">
+                        <div class="col-xxl-7 col-xl-6 col-lg-6 col-md-12 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
+                            <div class="herobanner__content__wrapper herobanner__content__wrapper--2">
+                                <div class="section__title__button">
+                                    <span class="text__gradient">Career Opportunity</span>
+                                </div>
+                                <div class="herobanner__title herobanner__title--2">
+                                    <h1>We offers opportunities to advance your <span class="text__gradient">career.</span></h1>
+                                </div>
+                                <div class="herobanner__text herobanner__text--2">
+                                    <p>Keep learning, sharing, exploring, asking questions, taking the lead, and improving.</p>
+                                    <p>Conduct an investigation into your options. We promote open-mindedness and a never-ending thirst for knowledge.</p>
+                                </div>
+                                <div class="herobanner__button">
+                                    {{-- <a class="default__button" href="#">OUR ALL SERVICES</a> --}}
+                                    <div class="video__button">
+                                        <a class="video__card--link glightbox" data-gallery="video_popup" href="#">
+                                            <svg width="13" height="15" viewBox="0 0 13 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M13 7.5L0.250002 14.8612L0.250003 0.138783L13 7.5Z" fill="#F8422E"></path>
+                                            </svg>                                            
+                                        </a>
+                                       <span> Watch Playback of Videos</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="herobanner__icon">
+            {{-- <img class="herobanner__vector hero__icon__1" src="img/herobaner/vector__1.png" alt="Vector photo"> --}}
+            <img class="herobanner__vector hero__icon__4" src="img/herobaner/vector__4.png" alt="Vector photo">
+        </div>
     </div>
-    <!-- video__section__end -->
-    <div class="service__2 sp_top_140 sp_bottom_70 special__spacing" id="service__area">
+    <!-- herobanner__section__end -->
+
+<!-- about__section__start -->
+<div class="about ext-about position-relative sp_top_100">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-up" data-aos-duration="2100">
+                <div class="about__inner about__inner--2">
+                    <div class="section__title section__title--2  sp_bottom_30">
+                        <div class="section__title__button">
+                            <span class="text__gradient">Are You Curious?</span>
+                        </div>
+                        <div class="section__title__heading sp_bottom_30">
+                            <h3 class="text__gradient">There is an abundance of inquiry in this particular region, which is excellent.<span class="text__gradient"></span> </h3>
+                        </div>
+                        <div class="about__text__2 ">
+                            <p>If you decide to join us, we will invest in both your professional and personal development. All of our staff members take responsibility for their job and are open to sharing their thoughts and contributions. It is certain that I will listen to you.</p>
+                            <p>In addition to offering essential assistance and opportunities for advancement, we empower you to take on work that aligns with your interests. Because of our organizational structure's horizontal nature, our leaders will make an effort to get to know you better. You'll also be successful in the future.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-up" data-aos-duration="1800">
+                <div class="faq__area sp_top_140 sp_bottom_140">
+                    <div class="container">
+                    <div class="faq__accordion" >
+                        <div class="accordion" id="accordionPanelsStayOpenExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header"  id="panelsStayOpen-headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                                    A force that brings people together
+                                </button>
+                            </h2>
+                            <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                        <div class="accordion__text">
+                                        <p>Every single one of our activities is based on the concept of teamwork. To do this, technologists and portfolio managers need to work together in order to develop trading algorithms that are more sophisticated. To provide clients with more valuable responses, researchers should be involved in company development projects. In order to supply our research with useful data, we are assembling experts from all different sectors.</p>
+                                        <p>Performing labor in this region is a challenging task. In addition, considering ourselves to be curious and thought-provoking problem solvers, we together face any and all challenges.</p>
+                                        </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                                    There are connections between New York City and the global community.
+                                </button>
+                            </h2>
+                            <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                        <div class="accordion__text">
+                                        <p>Because we are so close to New York City, it is extremely easy to visit all that the city has to offer. Despite the Greenwich location of NEW-VC-NAME, a significant number of our most talented individuals live in Manhattan and travel together via Metro North. They participate in conversations about key ideas, either by exchanging personal experiences or by becoming absorbed in the topic that they find most interesting.</p>    
+                                        </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingFour">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+                                    Applying a Passion for Lifelong Learning with Practice
+                                </button>
+                            </h2>
+                            <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                        <div class="accordion__text">
+                                        <p>Quanta Academy's wide curriculum goes beyond only providing instruction; rather, it encourages personal and professional development by means of discovery, interaction, and knowledge. Quanta's curriculum, comprising hundreds of classes, events, and lectures for employees across all levels, focuses on both your intellectual and emotional intelligence to help you reach your full potential.</p>
+                                        </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingFive">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
+                                    Regular Curriculum
+                                </button>
+                            </h2>
+                            <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                        <div class="accordion__text">
+                                        <p>In this context, work is not the only concern.</p>
+                                        <p> We make it a priority to ensure the health and happiness of our staff members by providing them with a wide range of opportunities and experiences that encourage creativity, self-discovery, and community. Official diversity networks, wellness programs, and community formation are among these measures, both within the NEW-VC-NAME family and in the larger community as a whole. All of your growth is something that we hope to see from you.</p>
+                                        </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingSix">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
+                                    For the benefit of pupils
+                                </button>
+                            </h2>
+                            <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
+                                <div class="accordion-body">
+                                    <div class="row">
+                                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+                                        <div class="accordion__text">
+                                        <p>Do you have a strong desire to learn? For those who are interested in beginning their professional adventure and embracing the world, NEW-VC-NAME is an amazing destination. Because of our worldwide network, you will have access to the financial centers that determine the pace of the globe, allowing you to get a thorough grasp of the investing process.</p>
+                                        </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+
+    <!-- about__section__end-->
+
+    <div class="service__video__sec__wrap" style="background: var(--pinkcolor) url(img/service/service__bg__2.png);">
+
+    <!--Department__section -->
+    <div class="service__2 sp_top_60 sp_bottom_70 special__spacing" id="service__area">
         <div class="container">
             <div class="row" data-aos="fade-up" data-aos-duration="1500">
                 <div class="col-xl-12">

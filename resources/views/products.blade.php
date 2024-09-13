@@ -1,7 +1,5 @@
 @extends('layouts.master')
-
 @section('content')
-<script src="{{ asset('js/app.js')}}"></script>
 <title>Products</title>
         <!-- breadcrumbarea__start -->
         <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
@@ -25,7 +23,7 @@
             </div>
         </div>
         <!-- breadcrumbarea__end -->
-        
+    
         <!-- service__details__start -->
         <div class="service__details sp_top_140 sp_bottom_160">
             <div class="container">

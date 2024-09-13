@@ -1,7 +1,8 @@
 @extends('layouts.master')
-
 @section('content')
+@push('scripts')
 <script src="{{ asset('js/app.js')}}"></script>
+@endpush
 <title>Portfolios</title>
 
         <!-- breadcrumbarea__start -->

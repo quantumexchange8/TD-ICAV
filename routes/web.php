@@ -1,12 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\PageController;
-
 Route::get('/', function () {
     return view('index');
 });
-
 
 Route::get('/about', function () {
     return view('about');
@@ -38,4 +35,16 @@ Route::get('/login', function () {
 
 Route::get('/career', function () {
     return view('career');
+});
+
+Route::get('/strategies', function () {
+    return view('strategies');
+});
+
+Route::get('/history', function () {
+    return view('history');
+});
+
+Route::get('/academic', function () {
+    return view('academic');
 });

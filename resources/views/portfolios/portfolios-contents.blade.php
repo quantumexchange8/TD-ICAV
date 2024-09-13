@@ -1,4 +1,5 @@
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="1">
+<script src="{{ asset('js/app.js')}}"></script>
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="1">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Financial Planning Portfolios </h4>
@@ -13,7 +14,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="2" >
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="2" >
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>The Programs of Advisory </h4>
@@ -59,7 +60,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12"  id="4">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="4">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4> The Commodities</h4>
@@ -84,7 +85,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="5">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="5">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -115,7 +116,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12" id="6">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="6">
     <div class="service__details__wraper">
         <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
