@@ -11198,3 +11198,14 @@ Dark Mode
 .is_dark .loginarea form .loginarea__form .common__login__input {
   color: var(--blackColor);
 }/*# sourceMappingURL=style.css.map */
+
+.headercompany__logo {
+  display: flex;
+  height: 100%;
+  align-items: center;
+}
+@media (min-width: 992px) and (max-width: 1365px) {
+  .headercompany__logo img {
+    max-width: 150px;
+  }
+}

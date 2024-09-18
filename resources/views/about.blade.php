@@ -1,7 +1,6 @@
 @extends('layouts.master')
 @section('content')
 <title>About Us</title>
-
         <!-- breadcrumbarea__start -->
         <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
             <div class="container">
@@ -115,15 +114,50 @@
         </div>
         <!-- brand__section__end -->
 
-        
-        <!-- Related Projects -->
+        <!-- approach -->
+        <div class="skillarea sp_bottom_110 sp_top_120" style="background: url(img/blog/blog__bg_2.png);">
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-xl-7 col-lg-6 col-md-12 col-sm-12 col-12"  data-aos="fade-up" data-aos-duration="1500">
+                        <div class="section__title  section__title--2 blog__4__padding__right section__title--3">
+                            <div class="section__title__button">
+                                <span>Our Approach to Methodology </span>
+                            </div>
+                            <div class="section__title__heading sp_bottom_20">
+                                <h3>Investors who are institutional</h3>
+                            </div>
+                            <div class="blog__4__section__title__text">
+                                <p>On a regular basis, institutional investors strive to achieve nominal returns of seven to eight percent or real yearly returns of five percent. </p>
+                            </div>
+                            <div class="section__title__button">
+                                <a class="default__button" href="/approach">VIEW MORE</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-5 col-lg-6 col-md-12 col-sm-12 col-12"  data-aos="fade-up" data-aos-duration="1800">
+                        <div class="skill__sets" style="background:var(--pinkcolor)">
+                            <h3>Investing in the fundamentals</h3>
+                            <div class="blog__details__list" data-aos="fade-up" data-aos-duration="1500">
+                                <ul>
+                                    <li>To produce results that are repeatable over a long period of time, we rely on sound economic theory and analysis.</li>
+                                    <li>A Solution Defined as 5% </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- approach -->
+
+        <!-- More About Us -->
         <div class="related__project sp_bottom_140 sp_top_100 special__spacing">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12" data-aos="fade-up" data-aos-duration="1500">
                         <div class="section__title  text-center sp_bottom_60">
                             <div class="section__title__button">
-                                <span class="text__gradient ">More About Us</span>
+                                <span class="text__gradient">More About Us</span>
                             </div>                      
                         </div>
                     </div>
@@ -180,13 +214,12 @@
                                         </a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
             </div>
         </div>
-        <!-- Related Projects -->
+        <!-- More About Us End -->
 
 
 @endsection

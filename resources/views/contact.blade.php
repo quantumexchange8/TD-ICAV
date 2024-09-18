@@ -24,15 +24,8 @@
             </div>
         </div>
     </div>
-
-
-
 </div>
-        <!-- breadcrumbarea__end -->
-
-
-
-
+<!-- breadcrumbarea__end -->
 
 <!-- contact__section__start -->
 <div class="contact sp_top_140 sp_bottom_80">

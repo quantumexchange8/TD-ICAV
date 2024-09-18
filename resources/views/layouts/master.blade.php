@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="{{ asset('css/glightbox.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/swiper-bundle.min.css')}}">
     <link rel="stylesheet" href="{{ asset('css/style.css')}}">
+    <link rel="stylesheet" href="{{ asset('css/app.css')}}">
     <script>
         // On page load or when changing themes, best to add inline in `head` to avoid FOUC
         if (localStorage.getItem("theme-color") === "dark" || (!("theme-color" in localStorage) && window.matchMedia("(prefers-color-scheme: dark)").matches)) {

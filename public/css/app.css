@@ -1,0 +1,22 @@
+.headercompany__logo {
+    display: flex;
+    height: 100%;
+    align-items: center;
+  }
+
+.headercompany__logo img {
+  max-width: 150px;
+}
+
+.footercompany__logo {
+  margin-bottom: 40px;
+}
+@media (min-width: 992px) and (max-width: 1365px) {
+  .footercompany__logo {
+    margin-bottom: 20px;
+  }
+}
+.footercompany__logo img {
+  max-width: 250px;
+}
+

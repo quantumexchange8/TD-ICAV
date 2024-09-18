@@ -1,5 +1,6 @@
 <script src="{{ asset('js/app.js')}}"></script>
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="1">
+
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_1">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>The Development of Businesses</h4>
@@ -12,7 +13,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="2" >
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_2" >
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Engineering and Technology</h4>
@@ -24,7 +25,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="3">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_3">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Facilities Team </h4>
@@ -35,7 +36,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="4">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_4">
     <div class="service__details__wraper">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4> Finance Team</h4>
@@ -46,9 +47,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="5">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_5">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Human Resources</h4>
         </div>
@@ -58,9 +58,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="6">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_6">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Compliance And Legal Issues</h4>
         </div>
@@ -73,9 +72,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="7">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_7">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Advertising And Marketing</h4>
         </div>
@@ -85,9 +83,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="8">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_8">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Operations Team</h4>
         </div>
@@ -97,9 +94,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="9">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_9">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Investment in Portfolios</h4>
         </div>
@@ -109,9 +105,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="10">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_10">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Portfolio Implementation Team</h4>
         </div>
@@ -121,9 +116,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="11">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_11">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Conducting an Investigation</h4>
         </div>
@@ -133,9 +127,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="12">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_12">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Risk Management Team</h4>
         </div>
@@ -145,9 +138,8 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="13">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_13">
     <div class="service__details__wraper">
-        <div class="service__details__img" data-aos="fade-up" data-aos-duration="1500">
         <div class="service__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4>Global Trading Strategies Team </h4>
         </div>

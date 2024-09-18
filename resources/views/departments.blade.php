@@ -57,73 +57,73 @@
                                 <div class="sidebar__list">
                                     <ul>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="1">The Development Of Businesses
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_1">The Development Of Businesses
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="2">Engineering And Technology
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_2">Engineering And Technology
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="3">Facilities Team
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_3">Facilities Team
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="4">Finance Team
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_4">Finance Team
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="5">Human Resources
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_5">Human Resources
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="6">Compliance And Legal Issues
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_6">Compliance And Legal Issues
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="7">Advertising And Marketing
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_7">Advertising And Marketing
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="8">Operations
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_8">Operations
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="9">Investment In Portfolios
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_9">Investment In Portfolios
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="10">Portfolio Implementation Team
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_10">Portfolio Implementation Team
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="11">Conducting An Investigation
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_11">Conducting An Investigation
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="12">Risk Management Team
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_12">Risk Management Team
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" href="#" data-content="13">Global Trading Strategies Team
+                                            <a class="sidebar__common__input" href="#" data-content="content_section_13">Global Trading Strategies Team
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>

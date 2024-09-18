@@ -1,5 +1,4 @@
 // import './bootstrap';
-
 document.addEventListener('DOMContentLoaded', function () {
     function showContent(contentId) {
         const sections = document.querySelectorAll('.content-section');
@@ -17,6 +16,6 @@ document.addEventListener('DOMContentLoaded', function () {
             showContent(contentId); 
         });
     });
-    showContent(1);
+    showContent('content_section_1');
 });
 

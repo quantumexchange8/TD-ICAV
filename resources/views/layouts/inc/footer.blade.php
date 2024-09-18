@@ -6,9 +6,8 @@
                     <div class="row">
                         <div class="col-xl-4 col-lg-6 col-md-6" data-aos="fade-up" data-aos-duration="1500">
                             <div class="footer__widget footer__left">
-                                <div class="footer__logo">
-                                    {{-- <img src="img/logo/Logo_1.png" alt=""> --}}
-                                    <p>TD-ICAV Logo</p>
+                                <div class="footercompany__logo">
+                                    <img src="img\company logo\TD-landscape-white.png" alt="">
                                 </div>
                                 <div class="footer__text">
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt labore et dolore magna aliqua</p>
