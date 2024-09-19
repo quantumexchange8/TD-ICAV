@@ -40,7 +40,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="section__title text-center sp_bottom_90">
-                            <div class="section__title__heading">
+                            <div class="herobanner__title">
                                 <h3>TD-ICAV is committed to growing our client’s wealth through our deeply embedded culture of service and client centricity.</h3>
                             </div>
                             <div class="section__title__text">
@@ -173,210 +173,50 @@
         </div>
         <!-- brand__section__end -->
 
-        <!-- product__Section__start -->
-        <div class="service sp_top_100 sp_bottom_330 special__spacing" id="service__area" style="background: var(--pinkcolor) url(img/service/service__bg__img.png);" data-aos="fade-up">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <div class="section__title text-center sp_bottom_50">
-                            <div class="section__title__button">
-                                <span class="text__gradient">OUR PRODUCTS</span>
-                            </div>
-                            <div class="section__title__heading">
-                                <h3>We offer a wide range of asset management services</h3>
+<!-- product__section__start -->
+<div class="service sp_top_100 sp_bottom_100 special__spacing" id="service__area" style="background: var(--pinkcolor) url(img/service/service__bg__img.png);" data-aos="fade-up">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-up" data-aos-duration="2100">
+                <div class="about__inner about__inner--2">
+                    <div class="section__title section__title--2  sp_bottom_30">
+                        <div class="section__title__button">
+                            <span class="text__gradient">OUR PRODUCTS</span>
+                        </div>
+                        <div class="section__title__heading">
+                            <h3>We offer a wide range of <span class="text__gradient"> asset management services</span></h3>
+                        </div>
+                    </div>
+                    <div class="about__vision__wrapper sp_bottom_20">
+                        <div class="about__misson">
+                            <div class="about__text__2">
+                                <p>There is a wide variety of risk appetites that may be accommodated by our service, which is a collection of pre-designed portfolios that are customized to meet those needs. </p>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="row position-relative">
-                    <div class="team__slider__active swiper">
-                        <div class="swiper-wrapper">
-                            <div class="col-md35 testimonial__single__slider swiper-slide">
-                                <div class="service__single__wraper common__gradient__bg single__transform">
-                                    <div class="service__single__inner">
-                                        <div class="service__img">
-                                            <img src="img/service/service__1.png" alt="">
-                                        </div>
-                                        <div class="service__content">
-                                            <div class="service__heading">
-                                                <h5><a href="/products">Introduction</a></h5>
-                                            </div>
-                                            <div class="service__text">
-                                                <p>Continuous monitoring and assessments of each portfolio are carried out by our investment managers in line with risk profiling.</p>
-                                            </div>
-                                            <div class="service__icon">
-                                                <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    </svg>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="service__img__bg">
-                                        <img src="img/service/service__1__img__bg.svg" alt="">
-                                    </div>
-                                </div>  
-                            </div>
-                            <div class="col-md-5 testimonial__single__slider swiper-slide">
-                                    <div class="service__single__wraper common__gradient__bg single__transform">
-                                        <div class="service__single__inner">
-                                        <div class="service__img">
-                                            <img src="img/service/service__2.png" alt="">
-                                        </div>
-                                        <div class="service__content">
-                                            <div class="service__heading">
-                                                <h5><a href="/products">Cryptocurrencies</a></h5>
-                                            </div>
-                                            <div class="service__text">
-                                                <p>In spite of the fact that cryptocurrencies may in fact represent the subsequent big step in the growth of the internet.</p>
-                                            </div>
-                                            <div class="service__icon">
-                                                <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    </svg>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="service__img__bg">
-                                        <img src="img/service/service__1__img__bg.svg" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md35 testimonial__single__slider swiper-slide">
-                                <div class="service__single__wraper common__gradient__bg single__transform">
-                                    <div class="service__single__inner">
-                                        <div class="service__img">
-                                            <img src="img/service/service__3.png" alt="">
-                                        </div>
-                                        <div class="service__content">
-                                            <div class="service__heading">
-                                                <h5><a href="/products">Equities</a></h5>
-                                            </div>
-                                            <div class="service__text">
-                                                <p>Equity investments have the potential to be the principal driver of growth in your investment portfolio. </p>
-                                            </div>
-                                            <div class="service__icon">
-                                                <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    </svg>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="service__img__bg">
-                                        <img src="img/service/service__1__img__bg.svg" alt="">
-                                    </div>
-                                </div>  
-                            </div>
-
-                            <div class="col-md35 testimonial__single__slider swiper-slide">
-                                <div class="service__single__wraper common__gradient__bg single__transform">
-                                    <div class="service__single__inner">
-                                    <div class="service__img">
-                                        <img src="img/service/service__3.png" alt="">
-                                    </div>
-                                    <div class="service__content">
-                                        <div class="service__heading">
-                                            <h5><a href="/products">Commodities</a></h5>
-                                        </div>
-                                        <div class="service__text">
-                                            <p>The commodities that are used in everyday life, such as gold, silver, and oil, have a tremendous impact on that existence.</p>
-                                        </div>
-                                        <div class="service__icon">
-                                            <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                </svg>
-                                                </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="service__img__bg">
-                                    <img src="img/service/service__1__img__bg.svg" alt="">
-                                </div>
-                            </div>
-                            </div>
-
-                            <div class="col-md35 testimonial__single__slider swiper-slide">
-                                <div class="service__single__wraper common__gradient__bg single__transform">
-                                    <div class="service__single__inner">
-                                    <div class="service__img">
-                                        <img src="img/service/service__3.png" alt="">
-                                    </div>
-                                    <div class="service__content">
-                                        <div class="service__heading">
-                                            <h5><a href="/products">Financial Planning</a></h5>
-                                        </div>
-                                        <div class="service__text">
-                                            <p>Our duty in your investment planning is to assist you in determining your goals and objectives.</p>
-                                        </div>
-                                        <div class="service__icon">
-                                            <a href="/products"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                </svg>
-                                                </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="service__img__bg">
-                                    <img src="img/service/service__1__img__bg.svg" alt="">
-                                </div>
-                            </div>
-                            </div>
-
-                            <div class="col-md35 testimonial__single__slider swiper-slide">
-                                <div class="service__single__wraper common__gradient__bg single__transform">
-                                    <div class="service__single__inner">
-                                        <div class="service__img">
-                                            <img src="img/service/service__4.png" alt="">
-                                        </div>
-                                        <div class="service__content">
-                                            <div class="service__heading">
-                                                <h5><a href="service-details.html">Retirement Planning </a></h5>
-                                            </div>
-                                            <div class="service__text">
-                                                <p>The supply of well-balanced assets, profit sharing, and secure investments are the sole components of our retirement plan services.</p>
-                                            </div>
-                                            <div class="service__icon">
-                                                <a href="service-details.html"><svg width="34" height="34" viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    <path d="M10.9902 23.0107L22.8908 11.1101" stroke="#0A0624" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                                    </svg>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="service__img__bg">
-                                        <img src="img/service/service__1__img__bg.svg" alt="">
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                    <div class="about__list">
+                        <ul>
+                            <li><i class="icofont-check"></i>Cryptocurrencies</li>
+                            <li><i class="icofont-check"></i>Equities</li>
+                            <li><i class="icofont-check"></i>Commodities</li>
+                            <li><i class="icofont-check"></i>Financial Planning</li>
+                            <li><i class="icofont-check"></i>Retirement Planning</li>
+                        </ul>
                     </div>
-
-                    <div class="slider__controls__wrap slider__controls__pagination slider__controls__arrows">
-                        <div class="swiper-button-next arrow-btn arrow-btn-2">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M14.4297 5.92999L20.4997 12L14.4297 18.07" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path d="M3.5 12H20.33" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                            </svg>
-                        </div>
-                        <div class="swiper-button-prev arrow-btn arrow-btn-2">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M9.57031 5.92999L3.50031 12L9.57031 18.07" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                                <path d="M20.5 12H3.67" stroke="#fff" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
-                            </svg>
-                        </div>
+                    <div class="about__button">
+                        <a class="default__button" href="/products">LEARN MORE</a>
                     </div>
                 </div>
             </div>
+            <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-up" data-aos-duration="1800">
+                <div class="about__img__wrapper about__img__wrapper--2 position-relative" data-tilt>
+                    <img class="about__img__1" src="img/about/about__sass__2.png" alt="about__sass2">
+                </div>
+            </div>
         </div>
-        <!-- product__Section__end-->
+    </div>
+</div>
+    <!-- product__section__end-->
 
         <!-- portfolio__Section__start -->
         <div class="blog__2 sp_top_100 sp_bottom_140 special__spacing" id="tb__blogs" style="background:var(--pinkcolor) url(img/blog/blog__bg_1.png);">
@@ -397,7 +237,7 @@
                     <div class="team__slider__active swiper">
                         <div class="swiper-wrapper">
                             <div class="col-xl-4 col-lg-4 col-md-6 col-12 swiper-slide" data-aos="fade-up" data-aos-duration="1800">
-                                <div class="blog__2__wrapper common__gradient__bg single__transform ">
+                                <div class="blog__2__wrapper common__gradient__bg single__transform">
                                     <div class="blog__2__inner">
                                         <div class="blog__2__heading">
                                             <h3><a href="#">FINANCIAL PLANNING PORTFOLIO</a></h3>
@@ -492,7 +332,7 @@
                                     <span class="text__gradient">Further Information</span>
                                 </div>
                                 <div class="section__title__heading sp_bottom_10">
-                                    <h5 class="text__gradient">Our company offers a wide range of asset management services that are not only cutting-edge but also creative and forward-thinking solutions.<span class="text__gradient"></span> </h5>
+                                    <h5>Our company offers <span class="text__gradient"> a wide range of asset management services</span> that are not only cutting-edge but also creative and forward-thinking solutions.<span class="text__gradient"></span> </h5>
                                 </div>
                                 <div class="about__text__2 ">
                                     <p>To ensure that each client has a realistic grasp of the services they may anticipate from us, our investment management strategy is to ensure that this understanding is established from the very beginning. In light of this, prior to enrolling in our services, we make certain that you have, in conjunction with your intermediate adviser, defined a specific investment aim.</p>

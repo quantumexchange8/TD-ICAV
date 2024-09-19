@@ -49,32 +49,32 @@
                                 <div class="sidebar__list">
                                     <ul>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="1">Introduction
+                                            <a class="sidebar__common__input" data-content="content_section_1">Introduction
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="2">Cryptocurrencies
+                                            <a class="sidebar__common__input" data-content="content_section_2">Cryptocurrencies
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="3">Equities
+                                            <a class="sidebar__common__input" data-content="content_section_3">Equities
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="4">Commodities
+                                            <a class="sidebar__common__input" data-content="content_section_4">Commodities
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="5">Financial Planning
+                                            <a class="sidebar__common__input" data-content="content_section_5">Financial Planning
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="6">Retirement Planning
+                                            <a class="sidebar__common__input" data-content="content_section_6">Retirement Planning
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>

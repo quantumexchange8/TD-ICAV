@@ -56,4 +56,3 @@ Route::get('/contact', function () {
 Route::get('/login', function () {
     return view('login');
 });
-

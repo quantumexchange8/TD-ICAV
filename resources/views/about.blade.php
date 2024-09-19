@@ -36,12 +36,10 @@
                                         <span class="text__gradient ">About Us</span>
                                     </div>
                                     <div class="section__title__heading">
-                                        <h3>We are responsible for managing your financial affairs.</h3>
+                                        <h3>We are responsible for managing your <span class="text__gradient">financial affairs.</span></h3>
                                     </div>
                                 </div>
                                 <div class="about__vision__wrapper sp_top_60">
-                                <div class="about__text__wrapper">
-                                <div class="about__text__2">
                                     <h6>TD ICAV's Chief Executive Officers</h6>
                                 </div>
                                 <div class="about__text__2">
@@ -50,8 +48,6 @@
                                 <div class="about__button">
                                     <a class="default__button" href="/about-details">LEARN MORE ABOUT</a>
                                 </div>
-                            </div>
-                            </div>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12" data-aos="fade-up" data-aos-duration="1500">

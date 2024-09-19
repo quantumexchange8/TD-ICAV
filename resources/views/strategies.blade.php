@@ -48,7 +48,7 @@
                 </div>
             </div>
             <div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12" data-aos="fade-up" data-aos-duration="1800">
-                <div class="faq__area sp_top_100 sp_bottom_140">
+                <div class="faq__area sp_top_60 sp_bottom_140">
                     <div class="container">
                     <div class="faq__accordion" >
                         <div class="accordion" id="accordionPanelsStayOpenExample">

@@ -53,22 +53,22 @@
                                 <div class="sidebar__list">
                                     <ul>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="1">Financial Planning Portfolios
+                                            <a class="sidebar__common__input" data-content="content_section_1">Financial Planning Portfolios
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="2">The Programs of Advisory
+                                            <a class="sidebar__common__input" data-content="content_section_2">The Programs of Advisory
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="3">Portfolios that are Personalized 
+                                            <a class="sidebar__common__input" data-content="content_section_3">Portfolios that are Personalized 
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="sidebar__common__input" data-content="4">Providers of Advisory Services 
+                                            <a class="sidebar__common__input" data-content="content_section_4">Providers of Advisory Services 
                                                 <i class="icofont-rounded-right"></i>
                                             </a>
                                         </li>

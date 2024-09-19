@@ -1,4 +1,4 @@
-    <div class="mode_switcher my_switcher">
+    {{-- <div class="mode_switcher my_switcher">
         <button id="light--to-dark-button" class="light align-items-center">
             <svg xmlns="http://www.w3.org/2000/svg" class="ionicon dark__mode" viewBox="0 0 512 512"><path d="M160 136c0-30.62 4.51-61.61 16-88C99.57 81.27 48 159.32 48 248c0 119.29 96.71 216 216 216 88.68 0 166.73-51.57 200-128-26.39 11.49-57.38 16-88 16-119.29 0-216-96.71-216-216z" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"/></svg>
 
@@ -7,7 +7,7 @@
             <span class="light__mode">Light</span>
             <span class="dark__mode">Dark</span>
         </button>
-    </div>
+    </div> --}}
     
         <!-- header__start -->
         <header>
@@ -26,6 +26,7 @@
                                 <div class="headerarea__main__menu">
                                     <nav>
                                         <ul>
+                                            <li><a href="/">HOME </a></li> 
                                             <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown" href="/about">ABOUT US<i class="icofont-long-arrow-down"></i></a>
                                                 <ul class="headerarea__submenu headerarea__submenu--five--wrap">
                                                     <li><a href="/about">About Us</a></li>
@@ -100,6 +101,9 @@
                 <nav class="offcanvas__menu">
                     <ul class="offcanvas__menu_ul">
                         <li class="offcanvas__menu_li">
+                            <a class="offcanvas__menu_item" href="/">HOME</a>
+                        </li>
+                        <li class="offcanvas__menu_li">
                             <a class="offcanvas__menu_item" href="/about">ABOUT US</a>
                             <ul class="offcanvas__sub_menu">
                                 <li class="offcanvas__sub_menu_li"><a href="/career" class="offcanvas__sub_menu_item">History</a></li>
@@ -120,6 +124,9 @@
                                 <li class="offcanvas__sub_menu_li"><a href="/portfolios" class="offcanvas__sub_menu_item">Portfolios that are Personalized</a></li>
                                 <li class="offcanvas__sub_menu_li"><a href="/portfolios" class="offcanvas__sub_menu_item">Providers of Advisory Services</a></li>
                             </ul>
+                        </li>
+                        <li class="offcanvas__menu_li">
+                            <a class="offcanvas__menu_item" href="/featured">FEATURED</a>
                         </li>
                         <li class="offcanvas__menu_li">
                             <a class="offcanvas__menu_item" href="/contact">CONTACT US</a>

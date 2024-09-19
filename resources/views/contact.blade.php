@@ -36,7 +36,7 @@
                     <div class="section__title__button">
                         <span class="text__gradient ">Contact</span>
                     </div>
-                    <div class="section__title__heading contact__heading">
+                    <div class="section__title__heading contact__heading text__gradient">
                         <h3>Consulting support is just a Call or email away.</h3>
                     </div>
                 </div>

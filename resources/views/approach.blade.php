@@ -103,7 +103,6 @@
                         <div class="section__title__heading sp_bottom_10">
                             <h4 class="text__gradient">Content That Is Related <span class="text__gradient"></span> </h4>
                         </div>
-                        
                     </div>
                 </div>
             </div>

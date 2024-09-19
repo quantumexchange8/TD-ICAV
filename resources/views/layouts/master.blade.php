@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('img/favicon.ico')}}">
+    <link rel="apple-touch-icon" href="{{ asset('img/favicon.ico')}}">
+
     <!-- Place favicon.ico in the root directory -->
 
     <!-- CSS here -->

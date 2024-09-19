@@ -1,7 +1,6 @@
-<script src="{{ asset('js/app.js')}}"></script>
-<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 content-section" id="1" data-aos="fade-up" data-aos-duration="1500">
+<div class="col-xl-12 col-lg-12 col-md-12 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
     <div class="blog__details__wrapper" >
-        <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
+        <div class="blog__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Research on alternative ways of thinking</h4>
         </div>
         <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">
@@ -21,8 +20,8 @@
         </div>
         
 
-        <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
-        <h4>What are the steps involved in creating a successful portfolio? </h4>
+        <div class="blog__details__heading " data-aos="fade-up" data-aos-duration="1500">
+        <h4 class="text__gradient">What are the steps involved in creating a successful portfolio? </h4>
         <p>We have compiled the theories we deem most insightful for this topic.</p>
         </div>
         <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">
@@ -34,7 +33,7 @@
         </div>
 
         <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
-            <h4>Last Words and Reflections </h4>
+            <h4 class="text__gradient">Last Words and Reflections </h4>
             <p>The New-VC-Name Macro Wrap-Up is a weekly summary that focuses on macroeconomic topics for clients. Clients receive this summary. Specifically, this article investigates the influence that recent events have on the movements and reactions of the market.</p>
             <p>Additional Wrap-Ups for Macroeconomics: </p>
         </div>
@@ -96,5 +95,4 @@
     <!-- Related Projects -->
 
     </div>
-
 </div>
