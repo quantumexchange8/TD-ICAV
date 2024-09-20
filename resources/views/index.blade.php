@@ -56,10 +56,10 @@
                                 <img src="img/service/service__9.png" alt="">
                             </div>
                             <div class="service__heading__4">
-                                <h3><a href="#">PRIVATE ASSET MANAGEMENT</a></h3>
+                                <h3><a href="#">PRIVATE FINANCIAL SERVICES</a></h3>
                             </div>
                             <div class="service__icon">
-                                <a class="direction__btn" href="service-details.html"><svg width="34" height="34"
+                                <a class="direction__btn" href="#"><svg width="34" height="34"
                                         viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
                                             stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
@@ -82,7 +82,7 @@
                                 <h3><a href="#">WEALTH MANAGEMENT SOLUTIONS</a></h3>
                             </div>
                             <div class="service__icon">
-                                <a class="direction__btn" href="service-details.html"><svg width="34" height="34"
+                                <a class="direction__btn" href="#"><svg width="34" height="34"
                                         viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
                                             stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
@@ -105,7 +105,7 @@
                                 <h3><a href="#">FINANCIAL MARKETS RESEARCH</a></h3>
                             </div>
                             <div class="service__icon">
-                                <a class="direction__btn" href="service-details.html"><svg width="34" height="34"
+                                <a class="direction__btn" href="#"><svg width="34" height="34"
                                         viewBox="0 0 34 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M14.4258 10.9897L23.0101 10.9897L23.0101 19.574" stroke="#0A0624"
                                             stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round"
@@ -219,9 +219,9 @@
     <!-- product__section__end-->
 
         <!-- portfolio__Section__start -->
-        <div class="blog__2 sp_top_100 sp_bottom_140 special__spacing" id="tb__blogs" style="background:var(--pinkcolor) url(img/blog/blog__bg_1.png);">
+        <div class="blog__2 sp_top_80 sp_bottom_100 special__spacing" id="tb__blogs" style="background:var(--pinkcolor) url(img/blog/blog__bg_1.png);">
             <div class="container">
-                <div class="row align-items-center sp_bottom_80" data-aos="fade-up" data-aos-duration="1500">
+                <div class="row align-items-center sp_bottom_50" data-aos="fade-up" data-aos-duration="1500">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="section__title section__title--2 section__title--3 ">
                             <div class="section__title__button">
@@ -240,13 +240,13 @@
                                 <div class="blog__2__wrapper common__gradient__bg single__transform">
                                     <div class="blog__2__inner">
                                         <div class="blog__2__heading">
-                                            <h3><a href="#">FINANCIAL PLANNING PORTFOLIO</a></h3>
+                                            <h3><a href="/portfolios">FINANCIAL PLANNING PORTFOLIO</a></h3>
                                         </div>
                                         <div class="blog__2__text">
                                             <p>The formulation of a financial plan gives client the ability to evaluate their strategy for retirement and determine the projection of their existing assets and resources into future income in order to accomplish their goals for future.</p>
                                         </div>
                                         <div class="blog__2__button">
-                                            <a class="default__button btn__white" href="#">READ MORE</a>
+                                            <a class="default__button btn__white" href="/portfolios">READ MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -256,13 +256,13 @@
                                 <div class="blog__2__wrapper common__gradient__bg single__transform">
                                     <div class="blog__2__inner">
                                         <div class="blog__2__heading">
-                                            <h3><a href="#">THE PROGRAMS OF ADVISORY</a></h3>
+                                            <h3><a href="/portfolios">THE PROGRAMS OF ADVISORY</a></h3>
                                         </div>
                                         <div class="blog__2__text">
                                             <p>In order to better grasp your situation and your goals, we will make an effort to learn about them. These are some of the most significant talks that you will ever have, therefore it is imperative that you get off to a good start. </p>
                                         </div>
                                         <div class="blog__2__button">
-                                            <a class="default__button btn__white" href="#">READ MORE</a>
+                                            <a class="default__button btn__white" href="/portfolios">READ MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -272,13 +272,13 @@
                                 <div class="blog__2__wrapper common__gradient__bg single__transform">
                                     <div class="blog__2__inner">
                                         <div class="blog__2__heading">
-                                            <h3><a href="#">PORTFOLIO THAT ARE PERSONALIZED</a></h3>
+                                            <h3><a href="/portfolios">PORTFOLIO THAT ARE PERSONALIZED</a></h3>
                                         </div>
                                         <div class="blog__2__text">
                                             <p>There is a wide variety of risk appetites that may be accommodated by our service, which is a collection of pre-designed portfolios that are customized to meet those needs</p>
                                         </div>
                                         <div class="blog__2__button">
-                                            <a class="default__button btn__white" href="#">READ MORE</a>
+                                            <a class="default__button btn__white" href="/portfolios">READ MORE</a>
                                         </div>
                                     </div>
                                 </div>
@@ -288,13 +288,13 @@
                                 <div class="blog__2__wrapper common__gradient__bg single__transform">
                                     <div class="blog__2__inner">
                                         <div class="blog__2__heading">
-                                            <h3><a href="#">PROVIDERS OF ADVISORY SERVICES</a></h3>
+                                            <h3><a href="/portfolios">PROVIDERS OF ADVISORY SERVICES</a></h3>
                                         </div>
                                         <div class="blog__2__text">
                                             <p>Your family's wealth may be developed and protected with the assistance of our Trust Company, Client Consultation Group, and Advisory Solutions, all of which are accessible to provide assistance. </p>
                                         </div>
                                         <div class="blog__2__button">
-                                            <a class="default__button btn__white" href="#">READ MORE</a>
+                                            <a class="default__button btn__white" href="/portfolios">READ MORE</a>
                                         </div>
                                     </div>
                                 </div>
