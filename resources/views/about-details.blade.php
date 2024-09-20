@@ -1,5 +1,5 @@
 @extends('layouts.master')
-    
+@section('title', 'Company Datails')
 @section('content')
     
     <!-- breadcrumbarea__start -->
@@ -13,7 +13,7 @@
                             </div>
                             <div class="breadcrumbarea__inner">
                                 <ul>
-                                    <li><a href="/index">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li>// </li>
                                     <li><a href="/about">About Us</a></li>
                                     <li>// </li>

@@ -9,22 +9,13 @@
                                 <div class="footercompany__logo">
                                     <img src="img\company logo\TD-portrait-white.png" alt="">
                                 </div>
-                                <div class="footer__icon">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="icofont-facebook"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="icofont-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="icofont-skype"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="icofont-linkedin"></i></a>
-                                        </li>
-                                    </ul>
+                                <div class="">
+                                    <p>+353 XXX XXXX</p>
+                                    <p>33 Sir John Rogerson's Quay,<br> DUBLIN, Ireland, D02 XK09</p>
                                 </div>
+
+                               
+
                             </div>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6" data-aos="fade-up" data-aos-duration="2000">
@@ -77,7 +68,7 @@
                     <div class="row align-items-center">
                         <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                             <div class="copyright__left">
-                                <p>Copyright © 2024 <a href="#">TD-ICAV</a> All Right Reserved</p>
+                                <p>Copyright © {{now()->year}} <a href="/">TD-ICAV</a> All Right Reserved</p>
                             </div>
                         </div>
                         {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-12">

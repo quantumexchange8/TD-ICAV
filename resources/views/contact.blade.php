@@ -1,4 +1,6 @@
 @extends('layouts.master')
+@section('title', 'Contact Us')
+
 @section('content')
 <script src="{{ asset('js/app.js')}}"></script>
 <title>Contact Us</title>
@@ -15,7 +17,7 @@
                     </div>
                     <div class="breadcrumbarea__inner">
                         <ul>
-                            <li><a href="/index">Home</a></li>
+                            <li><a href="/">Home</a></li>
                             <li>// </li>
                             <li> Contact Us </li>
                         </ul>
@@ -43,7 +45,7 @@
             </div>
             <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
                 <div class="">
-                    <p>Please fill out the contact form below and we will connect you with an NEW-VC-NAME team member.</p>
+                    <p>Please fill out the contact form below and we will connect you with an TD-ICAV team member.</p>
                 </div>
                 <div class="contact__input__wrapper contact__grident__bg">
                     <form id="contact-form" class="contact-form" action="mail.php" method="post">

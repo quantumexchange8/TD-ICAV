@@ -14,9 +14,7 @@
                 <p>In order to evaluate the effectiveness of diversifying assets throughout the most difficult times for the majority of portfolios, we make use of data that spans approximately one hundred years. Based on our data, it appears that utilizing a tactical strategy in an effort to avert equity sell-offs is likely to be futile.</p>
                 <p>The occurrence of major equity drawdowns on a regular basis is not unusual, and these drawdowns frequently lead to the deterioration of normal investors' portfolios. Regrettably, any attempt to intentionally prevent the next equities selloff is likely to be not only unsuccessful but also likely to disappoint investors. The purpose of this article is to assess the effectiveness of diversifying assets during the most difficult times for the majority of portfolios using data spanning approximately one hundred years. In this analysis, we take into consideration the possible benefits and drawbacks of shifting from equity investments to defensive investments, which are assets that are anticipated to outperform during challenging times, and diversification investments, which are investments that are little connected. When it comes to the latter, we are able to see an intuitive trade-off: assets that have stronger hedging qualities have a tendency to perform worse on average. Investors should consider this trade-off when deciding how much they should diversify their exposure to equities drawdowns.</p>
             </div>
-            <div class="default__button" href="#">
-                <span>Subscribe</span>
-            </div>
+            <a class="default__button" href="/contact">Subscribe</a>
         </div>
         
 
@@ -34,7 +32,7 @@
 
         <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4 class="text__gradient">Last Words and Reflections </h4>
-            <p>The New-VC-Name Macro Wrap-Up is a weekly summary that focuses on macroeconomic topics for clients. Clients receive this summary. Specifically, this article investigates the influence that recent events have on the movements and reactions of the market.</p>
+            <p>The TD-ICAV Macro Wrap-Up is a weekly summary that focuses on macroeconomic topics for clients. Clients receive this summary. Specifically, this article investigates the influence that recent events have on the movements and reactions of the market.</p>
             <p>Additional Wrap-Ups for Macroeconomics: </p>
         </div>
         <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">

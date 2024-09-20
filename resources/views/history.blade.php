@@ -1,4 +1,6 @@
 @extends('layouts.master')
+@section('title', 'History')
+
 @section('content')
 <title>History</title>
 <!-- breadcrumbarea__start -->
@@ -65,7 +67,7 @@
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
-                                                    <p>A significant amount of time before the events that transpired in 2008, the investment team at NEW-VC-NAME had already built the instruments that were required to recognize and analyze economic crises. crises. Listen to the following statements made by key members of the investment team on the ways in which this approach led to extremely important decisions and insights: The strategies that NEW-VC-NAME utilized in order to effectively manage the financial crisis that occurred in 2008</p>
+                                                    <p>A significant amount of time before the events that transpired in 2008, the investment team at TD-ICAV had already built the instruments that were required to recognize and analyze economic crises. crises. Listen to the following statements made by key members of the investment team on the ways in which this approach led to extremely important decisions and insights: The strategies that TD-ICAV utilized in order to effectively manage the financial crisis that occurred in 2008</p>
                                                 </div> 
                                             </div>
                                         </div>
@@ -81,7 +83,7 @@
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
-                                                    <p>According to the persons who were in charge of guiding NEW-VC-NAME through the financial crisis, here is the story of how the company rose through the crisis. We had a conversation with the founder of NEW-VC-NAME and Jim Haskel, a senior portfolio strategist, who elaborated on some of the most important studies we have conducted on debt crises and related them to the current state of the market. The conversation focused on the current state of the market.</p>
+                                                    <p>According to the persons who were in charge of guiding TD-ICAV through the financial crisis, here is the story of how the company rose through the crisis. We had a conversation with the founder of TD-ICAV and Jim Haskel, a senior portfolio strategist, who elaborated on some of the most important studies we have conducted on debt crises and related them to the current state of the market. The conversation focused on the current state of the market.</p>
                                                     <p>Downloadable versions of our book, <a href="#" style="text-decoration-line: underline;"> "Big Debt Crises,"</a> are currently available. This book provides a unique framework for understanding the mechanics of debt crises as well as the concepts that may be utilized to effectively handle them. The book bears the title Concepts for Navigating Big Debt Crises. To acquire further information, please download the free PDF. </p>
                                                 </div> 
                                             </div>
@@ -98,7 +100,7 @@
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
-                                                    <p>In this section, we will explore the events that occurred during the financial crisis of 2008 by utilizing the research and recollections of the NEW-VC-NAME investing team: </p>
+                                                    <p>In this section, we will explore the events that occurred during the financial crisis of 2008 by utilizing the research and recollections of the TD-ICAV investing team: </p>
                                                     <p>There were three crises: the Great Depression of 1920, Crisis of 2008, the Crisis of 2015</p>
                                                     <div class="blog__details__list" data-aos="fade-up" data-aos-duration="1500">
                                                         <p>Putting the Scene in Place In the 1930s, the United States had the most recent serious debt crisis that the country has ever experienced. During that period: </p>
@@ -141,7 +143,7 @@
                             <li>the Federal funds rate reached its most recent cyclical low at one and a half percent. </li>
                         </ul>
                         </div>
-                        <p>The 26th of December, 2002, Concerning the Possibility of "Depression" Since the beginning of NEW-VC-NAME, we have been steadfast in our belief that the most effective way to acquire knowledge and broaden one's comprehension is via the utilization of an organized approach. In other words, we expressly characterize our knowledge as a collection of principles that we can argue, test, and integrate into our investing systems as we uncover new insights into the workings of the universe. We have found that this strategy works well even for difficult things to assess. We improved our understanding of depression by using the same approach to systematizing our previous learnings. </p>
+                        <p>The 26th of December, 2002, Concerning the Possibility of "Depression" Since the beginning of TD-ICAV, we have been steadfast in our belief that the most effective way to acquire knowledge and broaden one's comprehension is via the utilization of an organized approach. In other words, we expressly characterize our knowledge as a collection of principles that we can argue, test, and integrate into our investing systems as we uncover new insights into the workings of the universe. We have found that this strategy works well even for difficult things to assess. We improved our understanding of depression by using the same approach to systematizing our previous learnings. </p>
                         <p>"The Risk of 'Depression'," which was published in a Daily Observation in September 2002, stated the following: In the event that interest rates are impossible to reduce (for example, because they are unable to go below 0%), depressions always result. Consequently, the inability to reduce debt service obligations necessitates the sale of assets to generate cash. However, bubbles stand out due to their rapid debt growth, resulting in abnormally high asset prices and global gross domestic product. In light of this, the most appropriate time to express alarm is after a bubble has occurred, when debt burdens are at their highest and short-term interest rates are close to zero percent. To warn us of this danger, we created a depression risk gauge because depressions have different economic and market relationships than other periods. </p>
                         <p>The chance of a deflationary depression is rather high, according to this proprietary metric, which implies that the likelihood of such a depression is roughly 25 percent. This indicates the need for immediate attention. On November 14, 2002, during the height of the Great Depression, monetary policy played a significant role in numerous documented cases of severe depressions and debt crises. For the purpose of enhancing our understanding of the usual functioning of such circumstances, we looked at examples from the past, such as the Great Downturn and the continuing downturn in Japan. One topic we studied was monetary policy effectiveness. </p>
                         <p>In November 2002, we engaged in a discussion about our respective perspectives on this matter: we believe that a prolonged and severe recession is not the same as a depression, which is a distinct occurrence. Both in the United States during the 1930s and in Japan during the present deflationary depression, monetary policy, which consists of dropping interest rates, was unsuccessful in stimulating economic development or financial markets. This led to an uncontrollable economic contraction, severely curtailing the central bank's influence. Normal economic ties preserve during economic contractions, but they break down during depressions. </p>
@@ -164,12 +166,12 @@
                         <div class="faq__accordion" >
                             <div class="accordion" id="accordionPanelsStayOpenExample">
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header"  id="panelsStayOpen-headingTwo">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                                    <h2 class="accordion-header"  id="panelsStayOpen-headingSix">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
                                             [February 5, 2007] Growing Financial Risks
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+                                    <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
@@ -182,12 +184,12 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                                    <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
                                             [January 31, 2008] From a Comprehensive Perspective: This Is Not Your Typical Economic Downturn
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+                                    <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
@@ -198,12 +200,12 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="panelsStayOpen-headingFour">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+                                    <h2 class="accordion-header" id="panelsStayOpen-headingEight">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false" aria-controls="panelsStayOpen-collapseEight">
                                             [August of 2008] Through a frantic sale, JPMorgan Chase was able to purchase Bear Stearns.
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+                                    <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEight">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
@@ -215,12 +217,12 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="panelsStayOpen-headingFive">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
+                                    <h2 class="accordion-header" id="panelsStayOpen-headingNine">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseNine" aria-expanded="false" aria-controls="panelsStayOpen-collapseNine">
                                             [September 15, 2008] Lehman Brothers and Financial Seizures
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
+                                    <div id="panelsStayOpen-collapseNine" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingNine">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
@@ -232,12 +234,12 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="panelsStayOpen-headingSix">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSix" aria-expanded="false" aria-controls="panelsStayOpen-collapseSix">
+                                    <h2 class="accordion-header" id="panelsStayOpen-headingTen">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTen" aria-expanded="false" aria-controls="panelsStayOpen-collapseTen">
                                             [October 3, 2008] TARP and Policy Responses
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseSix" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSix">
+                                    <div id="panelsStayOpen-collapseTen" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTen">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
@@ -248,12 +250,12 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="panelsStayOpen-headingSeven">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
+                                    <h2 class="accordion-header" id="panelsStayOpen-headingEleven">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEleven" aria-expanded="false" aria-controls="panelsStayOpen-collapseEleven">
                                             [November 1, 2008] A Structure for Having an Understanding of the Circumstances
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
+                                    <div id="panelsStayOpen-collapseEleven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEleven">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
@@ -264,12 +266,12 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="panelsStayOpen-headingEight">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false" aria-controls="panelsStayOpen-collapseEight">
+                                    <h2 class="accordion-header" id="panelsStayOpen-headingTwel">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwel" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwel">
                                             [April 3, 2009] An increase in income may be able to compensate for a drop in credit, but is this even possible?
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEight">
+                                    <div id="panelsStayOpen-collapseTwel" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwel">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">
@@ -280,12 +282,12 @@
                                     </div>
                                 </div>
                                 <div class="accordion-item">
-                                    <h2 class="accordion-header" id="panelsStayOpen-headingNine">
-                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseNine" aria-expanded="false" aria-controls="panelsStayOpen-collapseNine">
+                                    <h2 class="accordion-header" id="panelsStayOpen-headingThirdteen">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThirdteen" aria-expanded="false" aria-controls="panelsStayOpen-collapseThirdteen">
                                             Managing Deleveraging in 2012
                                         </button>
                                     </h2>
-                                    <div id="panelsStayOpen-collapseNine" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingNine">
+                                    <div id="panelsStayOpen-collapseThirdteen" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThirdteen">
                                         <div class="accordion-body">
                                             <div class="row">
                                                 <div class="accordion__text">

@@ -1,4 +1,5 @@
 @extends('layouts.master')
+@section('title', 'Our Approach to Methodology')
 @section('content')
 <title>Our Approach to Methodology</title>
 
@@ -124,7 +125,7 @@
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
                                             <p>We shall compare and contrast two common approaches to long-only style investing: the "integrated portfolio" and the "portfolio mix." People often use both of these approaches. We combine individual single-style portfolios, each based on a single-style rating, to form a portfolio mix. A portfolio mix is a combination of portfolios. An integrated portfolio, on the other hand, begins by combining the rankings of each asset's style into a single overall score, and then proceeds to design a portfolio based on that score. According to our study's conclusions, investors who place a high priority on long-only smart beta should consider the possibility of incorporating styles into portfolio development.</p>
-                                            <p style="font-style: italic;">Documentation authored by NEW-VC-NAME </p>
+                                            <p style="font-style: italic;">Documentation authored by TD-ICAV </p>
                                         </div> 
                                         </div>
                                     </div>
@@ -144,7 +145,7 @@
                                         <div class="accordion__text">
                                         <p>We believe that risk-parity investing is a rational investment strategy that places an emphasis on diversity rather than concentration. It is not just "leveraging bonds," despite critics' claims. We believe that there is considerable empirical and theoretical evidence supporting the idea that more diversified portfolios, such as risk parity portfolios, can provide higher risk-adjusted returns than concentrated portfolios. This is something that we believe to be true. </p>
                                         <p>Over a longer period of time, we believe that risk parity continuously offers a slight benefit that, if allowed to compound, can become a significant advantage. Even throughout lengthy periods of moderately growing interest rates and even when the cumulative increase in rates is large</p>
-                                        <p style="font-style: italic;">Documentation authored by NEW-VC-NAME </p>
+                                        <p style="font-style: italic;">Documentation authored by TD-ICAV </p>
                                         </div> 
                                         </div>
                                     </div>

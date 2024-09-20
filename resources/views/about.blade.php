@@ -1,6 +1,6 @@
 @extends('layouts.master')
+@section('title', 'About Us')
 @section('content')
-<title>About Us</title>
         <!-- breadcrumbarea__start -->
         <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
             <div class="container">
@@ -12,7 +12,7 @@
                             </div>
                             <div class="breadcrumbarea__inner">
                                 <ul>
-                                    <li><a href="/index">Home</a></li>
+                                    <li><a href="/">Home</a></li>
                                     <li>// </li>
                                     <li> About us </li>
                                 </ul>
@@ -36,7 +36,7 @@
                                         <span class="text__gradient ">About Us</span>
                                     </div>
                                     <div class="section__title__heading">
-                                        <h3>We are responsible for managing your <span class="text__gradient">financial affairs.</span></h3>
+                                        <h3>We are responsible for managing your <span class="text__gradient">financial affairs</span></h3>
                                     </div>
                                 </div>
                                 <div class="about__vision__wrapper sp_top_60">

@@ -1,4 +1,6 @@
 @extends('layouts.master')
+@section('title', 'Featured')
+
 @section('content')
 <title>Featured</title>
 

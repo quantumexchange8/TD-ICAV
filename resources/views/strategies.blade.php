@@ -1,4 +1,6 @@
 @extends('layouts.master')
+@section('title', 'Strategies & Methodologies')
+
 @section('content')
 <title>Strategies & Methodologies</title>
 
@@ -117,7 +119,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>The Risk Management team is responsible for monitoring all financial and non-financial hazards in our organization. These risks include market and liquidity risk, counterparty risk, model risk, operational risk, and technology risk. All decisions pertaining to risk are subject to a different governance framework, which places an emphasis on the team's autonomy in comparison to other business division operations. At NEW-VC-NAME, our Chief Risk Officer directly reports to the Managing and Founding Principal. We believe that it is of the utmost importance for risk management to build a close relationship with the portfolio management team. This will enable the establishment of "two lines of defense" dedicated to the same objectives. Regardless of the circumstances, we remain dedicated to managing portfolios in the face of sudden and severe adverse stress situations.</p>
+                                        <p>The Risk Management team is responsible for monitoring all financial and non-financial hazards in our organization. These risks include market and liquidity risk, counterparty risk, model risk, operational risk, and technology risk. All decisions pertaining to risk are subject to a different governance framework, which places an emphasis on the team's autonomy in comparison to other business division operations. At TD-ICAV, our Chief Risk Officer directly reports to the Managing and Founding Principal. We believe that it is of the utmost importance for risk management to build a close relationship with the portfolio management team. This will enable the establishment of "two lines of defense" dedicated to the same objectives. Regardless of the circumstances, we remain dedicated to managing portfolios in the face of sudden and severe adverse stress situations.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -188,7 +190,7 @@
                     <li>A High Rate of Yield </li>
                     <p>We build diverse portfolios by selecting stocks within a specific industry based on systematic variables that are considered appealing on a systematic level.</p>
                     <li>Alternate options </li>
-                    <p>As an early pioneer in the field of alternative investing, NEW-VC-NAME has a long history of effectively managing the intricacies of the techniques that fall under this category. Our alternative strategies aim to generate returns in both up and down markets by maintaining a balanced exposure to factors and asset classes, and investing in both long and short positions. We achieve this by maintaining a balanced exposure to both. We provide both absolute return strategies, which seek to maintain zero exposure to conventional markets, either at all times or on average, and total return strategies, which strive to keep some exposure to traditional markets. Both of these strategies are available to potential investors. </p>
+                    <p>As an early pioneer in the field of alternative investing, TD-ICAV has a long history of effectively managing the intricacies of the techniques that fall under this category. Our alternative strategies aim to generate returns in both up and down markets by maintaining a balanced exposure to factors and asset classes, and investing in both long and short positions. We achieve this by maintaining a balanced exposure to both. We provide both absolute return strategies, which seek to maintain zero exposure to conventional markets, either at all times or on average, and total return strategies, which strive to keep some exposure to traditional markets. Both of these strategies are available to potential investors. </p>
                 </ul> 
             </div>
             
@@ -198,7 +200,7 @@
             <div class="blog__details__list" data-aos="fade-up" data-aos-duration="1500">
                 <ul>
                     <li>Strategies with an Absolute Return </li>
-                    <p>This approach creates a multi-strategy framework that aggregates nearly all of NEW-VC-NAME's strategies and provides exposure to highly diversified portfolios.</p>
+                    <p>This approach creates a multi-strategy framework that aggregates nearly all of TD-ICAV's strategies and provides exposure to highly diversified portfolios.</p>
                     <li>The Strategies of Arbitrage </li>
                     <p>We offer our clients a diverse portfolio that includes convertible, merger, and event-driven arbitrage strategies.</p>
                     <li>Credit Strategies</li>
@@ -207,7 +209,7 @@
             </div>
             <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
                 <p>The equity market is negative.</p>
-                <P>The company employs a market-neutral multi-factor investing strategy based on NEW-VC-NAME's extensive global stock selection expertise.</P>
+                <P>The company employs a market-neutral multi-factor investing strategy based on TD-ICAV's extensive global stock selection expertise.</P>
             </div>
             <div class="blog__details__text blog__details__text--2" data-aos="fade-up" data-aos-duration="1500">
                 <p>
@@ -243,7 +245,7 @@
                 <h4 class="text__gradient">Long-Short Equity Position </h4>
             </div>
             <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                <p>WThe investor maintains a continuous, net-long exposure to the market in addition to using our multi-factor investment approach, which is based on NEW-VC-NAME's largest global stock selection capabilities.</p>
+                <p>WThe investor maintains a continuous, net-long exposure to the market in addition to using our multi-factor investment approach, which is based on TD-ICAV's largest global stock selection capabilities.</p>
             </div>
 
             <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -283,17 +285,17 @@
                     <div class="faq__accordion" >
                         <div class="accordion" id="accordionPanelsStayOpenExample">
                         <div class="accordion-item">
-                            <h2 class="accordion-header"  id="panelsStayOpen-headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                            <h2 class="accordion-header"  id="panelsStayOpen-headingSeven">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseSeven" aria-expanded="false" aria-controls="panelsStayOpen-collapseSeven">
                                     The funds that have been registered  
                                 </button>
                             </h2>
-                            <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTwo">
+                            <div id="panelsStayOpen-collapseSeven" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingSeven">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>We enable ordinary investors to access a wide range of our strategies through the mutual funds sponsored by NEW-VC-NAME. In addition to this, we provide a wide range of choices to investors in both Europe and Australia. Make sure to get in touch with us if you require any further information. </p>
+                                        <p>We enable ordinary investors to access a wide range of our strategies through the mutual funds sponsored by TD-ICAV. In addition to this, we provide a wide range of choices to investors in both Europe and Australia. Make sure to get in touch with us if you require any further information. </p>
                                         </div> 
                                         </div>
                                     </div>
@@ -301,17 +303,17 @@
                             </div>
                         </div>
                         <div class="accordion-item">
-                            <h2 class="accordion-header" id="panelsStayOpen-headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingEight">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseEight" aria-expanded="false" aria-controls="panelsStayOpen-collapseEight">
                                     America's mutual funds
                                 </button>
                             </h2>
-                            <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingThree">
+                            <div id="panelsStayOpen-collapseEight" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingEight">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>You are about to transition from NEW-VC-NAME.com to U.S. Mutual Funds. We would like to bring to your attention the possibility that the rules and regulations that govern the website of U.S. Mutual Funds may be significantly different from those that govern the website of NEW-VC-NAME. With this in mind, it is possible that it is not appropriate for residents of all jurisdictions. The Terms of Use displayed on the online platform govern your access to and use of the U.S. Mutual Funds website.</p>
+                                        <p>You are about to transition from TD-ICAV.com to U.S. Mutual Funds. We would like to bring to your attention the possibility that the rules and regulations that govern the website of U.S. Mutual Funds may be significantly different from those that govern the website of TD-ICAV. With this in mind, it is possible that it is not appropriate for residents of all jurisdictions. The Terms of Use displayed on the online platform govern your access to and use of the U.S. Mutual Funds website.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -319,17 +321,17 @@
                             </div>
                         </div>
                         <div class="accordion-item">
-                            <h2 class="accordion-header" id="panelsStayOpen-headingFour">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false" aria-controls="panelsStayOpen-collapseFour">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingNine">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseNine" aria-expanded="false" aria-controls="panelsStayOpen-collapseNine">
                                     UCITS
                                 </button>
                             </h2>
-                            <div id="panelsStayOpen-collapseFour" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFour">
+                            <div id="panelsStayOpen-collapseNine" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingNine">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>When you leave NEW-VC-NAME.com, your browser will redirect you to UCITS. We'd like to bring to your attention the possibility that the UCITS website may be subject to laws and regulations that are significantly different from those that apply to the NEW-VC-NAME website. This could potentially make the UCITS website inappropriate for individuals residing in all jurisdictions. The Terms of Use displayed on the UCITS website directly govern your access to and use of the website.</p>
+                                        <p>When you leave TD-ICAV.com, your browser will redirect you to UCITS. We'd like to bring to your attention the possibility that the UCITS website may be subject to laws and regulations that are significantly different from those that apply to the TD-ICAV website. This could potentially make the UCITS website inappropriate for individuals residing in all jurisdictions. The Terms of Use displayed on the UCITS website directly govern your access to and use of the website.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -337,17 +339,17 @@
                             </div>
                         </div>
                         <div class="accordion-item">
-                            <h2 class="accordion-header" id="panelsStayOpen-headingFive">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFive" aria-expanded="false" aria-controls="panelsStayOpen-collapseFive">
+                            <h2 class="accordion-header" id="panelsStayOpen-headingTen">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTen" aria-expanded="false" aria-controls="panelsStayOpen-collapseTen">
                                     Financing from Australia  
                                 </button>
                             </h2>
-                            <div id="panelsStayOpen-collapseFive" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingFive">
+                            <div id="panelsStayOpen-collapseTen" class="accordion-collapse collapse" aria-labelledby="panelsStayOpen-headingTen">
                                 <div class="accordion-body">
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>When you leave NEW-VC-NAME.com, your browser will redirect you to Australia Funds. It is important that you are aware that the laws and regulations that govern the Australia Funds website may be significantly different from those that govern the NEW-VC-NAME website. This may make the Australia Funds website inappropriate for individuals living in all jurisdictions. The displayed Terms of Use will govern all your access to and use of the Australia Funds website.</p>
+                                        <p>When you leave TD-ICAV.com, your browser will redirect you to Australia Funds. It is important that you are aware that the laws and regulations that govern the Australia Funds website may be significantly different from those that govern the TD-ICAV website. This may make the Australia Funds website inappropriate for individuals living in all jurisdictions. The displayed Terms of Use will govern all your access to and use of the Australia Funds website.</p>
                                         </div> 
                                         </div>
                                     </div>

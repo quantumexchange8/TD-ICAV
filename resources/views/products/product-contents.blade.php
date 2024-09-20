@@ -1,4 +1,3 @@
-<script src="{{ asset('js/app.js')}}"></script>
 <div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_1">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
@@ -30,7 +29,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_2" >
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="cryptocurrencies" >
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Cryptocurrencies</h4>
@@ -44,7 +43,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_3">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="equities">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Equities</h4>
@@ -59,7 +58,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="content_section_4">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="commodities">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4> The Commodities</h4>
@@ -84,7 +83,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_5">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="financial_planning">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Financial Planning</h4>
@@ -114,7 +113,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_6">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="retirement_planning">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Retirement Planning</h4>
@@ -126,4 +125,54 @@
         </div>
     </div>
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+    // Function to show the content section
+    function showContent(contentId) {
+        const sections = document.querySelectorAll('.content-section'); 
+        sections.forEach(section => section.style.display = 'none'); // Hide all sections
+
+        const selectedSection = document.getElementById(contentId);
+        if (selectedSection) {
+            selectedSection.style.display = 'block'; // Show the selected section
+        }
+
+        // Only update the URL hash if we are on the 'products' page
+        if (window.location.pathname === '/products') {
+            history.pushState(null, null, `#${contentId}`);
+        }
+    }
+
+    // Function to handle navigation through the hash on page load or back/forward navigation
+    function handleHashNavigation() {
+        if (window.location.pathname === '/products') { // Only execute if on 'products' page
+            const hash = window.location.hash.substring(1); // Get the hash (without #)
+            if (hash) {
+                showContent(hash); // Show the section based on the hash
+            } else {
+                showContent('content_section_1'); // Default section
+            }
+        }
+    }
+
+    // Add event listeners to the sidebar links
+    const links = document.querySelectorAll('.sidebar__common__input');
+    links.forEach(link => {
+        link.addEventListener('click', function (e) {
+            e.preventDefault(); // Prevent default link behavior
+            const contentId = this.getAttribute('data-content'); // Get the target section ID
+            showContent(contentId); // Show the corresponding section
+        });
+    });
+
+    // Initial check when the page is loaded (for direct hash access)
+    handleHashNavigation();
+
+    // Handle browser back/forward buttons
+    window.addEventListener('popstate', function () {
+        handleHashNavigation(); // Show the section based on the updated URL hash
+    });
+});
+</script>
 

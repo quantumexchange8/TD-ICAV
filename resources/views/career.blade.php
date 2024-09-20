@@ -1,4 +1,5 @@
 @extends('layouts.master')
+@section('title', 'Career Opportunity')
 
 @section('content')
 
@@ -28,7 +29,7 @@
     </div>
     <!-- breadcrumbarea__end -->
     <!-- herobanner__section__start -->
-    <div class="herobanner d-flex align-items-center height__800 bg__image position-relative careerbanner__margin" style="background:  var(--pinkcolor) url(img/herobaner/herobanner__bg__5.png);">
+    <div class="herobanner d-flex align-items-center height__700 bg__image position-relative careerbanner__margin" style="background:  var(--pinkcolor) url(img/herobaner/herobanner__bg__5.png);">
         <div class="container-fluid full__width__padding">
             <div class="herobanner__wrapper">
                 <div class="herobanner__single">
@@ -39,22 +40,11 @@
                                     <span class="text__gradient">Career Opportunity</span>
                                 </div>
                                 <div class="herobanner__title herobanner__title--2">
-                                    <h1>We offers opportunities to advance your <span class="text__gradient">career.</span></h1>
+                                    <h1>We offers opportunities to advance your <span class="text__gradient">career</span></h1>
                                 </div>
                                 <div class="herobanner__text herobanner__text--2">
                                     <p>Keep learning, sharing, exploring, asking questions, taking the lead, and improving.</p>
                                     <p>Conduct an investigation into your options. We promote open-mindedness and a never-ending thirst for knowledge.</p>
-                                </div>
-                                <div class="herobanner__button">
-                                    {{-- <a class="default__button" href="#">OUR ALL SERVICES</a> --}}
-                                    <div class="video__button">
-                                        <a class="video__card--link glightbox" data-gallery="video_popup" href="#">
-                                            <svg width="13" height="15" viewBox="0 0 13 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M13 7.5L0.250002 14.8612L0.250003 0.138783L13 7.5Z" fill="#F8422E"></path>
-                                            </svg>                                            
-                                        </a>
-                                       <span> Watch Playback of Videos</span>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -80,7 +70,7 @@
                             <span class="text__gradient">Are You Curious?</span>
                         </div>
                         <div class="section__title__heading sp_bottom_30">
-                            <h3 class="text__gradient">There is an abundance of inquiry in this particular region, which is excellent.<span class="text__gradient"></span> </h3>
+                            <h3 class="text__gradient">There is an abundance of inquiry in this particular region, which is excellent<span class="text__gradient"></span> </h3>
                         </div>
                         <div class="about__text__2 ">
                             <p>If you decide to join us, we will invest in both your professional and personal development. All of our staff members take responsibility for their job and are open to sharing their thoughts and contributions. It is certain that I will listen to you.</p>
@@ -125,7 +115,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>Because we are so close to New York City, it is extremely easy to visit all that the city has to offer. Despite the Greenwich location of NEW-VC-NAME, a significant number of our most talented individuals live in Manhattan and travel together via Metro North. They participate in conversations about key ideas, either by exchanging personal experiences or by becoming absorbed in the topic that they find most interesting.</p>    
+                                        <p>Because we are so close to New York City, it is extremely easy to visit all that the city has to offer. Despite the Greenwich location of TD-ICAV, a significant number of our most talented individuals live in Manhattan and travel together via Metro North. They participate in conversations about key ideas, either by exchanging personal experiences or by becoming absorbed in the topic that they find most interesting.</p>    
                                         </div> 
                                         </div>
                                     </div>
@@ -162,7 +152,7 @@
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
                                         <p>In this context, work is not the only concern.</p>
-                                        <p> We make it a priority to ensure the health and happiness of our staff members by providing them with a wide range of opportunities and experiences that encourage creativity, self-discovery, and community. Official diversity networks, wellness programs, and community formation are among these measures, both within the NEW-VC-NAME family and in the larger community as a whole. All of your growth is something that we hope to see from you.</p>
+                                        <p> We make it a priority to ensure the health and happiness of our staff members by providing them with a wide range of opportunities and experiences that encourage creativity, self-discovery, and community. Official diversity networks, wellness programs, and community formation are among these measures, both within the TD-ICAV family and in the larger community as a whole. All of your growth is something that we hope to see from you.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -180,7 +170,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>Do you have a strong desire to learn? For those who are interested in beginning their professional adventure and embracing the world, NEW-VC-NAME is an amazing destination. Because of our worldwide network, you will have access to the financial centers that determine the pace of the globe, allowing you to get a thorough grasp of the investing process.</p>
+                                        <p>Do you have a strong desire to learn? For those who are interested in beginning their professional adventure and embracing the world, TD-ICAV is an amazing destination. Because of our worldwide network, you will have access to the financial centers that determine the pace of the globe, allowing you to get a thorough grasp of the investing process.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -215,11 +205,11 @@
                             <p>Explore each of our departments to find the opportunity that best suits you.</p>
                         </div>
                         <div class="row position-relative">
-                            <div class="team__slider__active swiper ">
+                            <div class="team__slider__active swiper">
                                 <div class="swiper-wrapper">
-                                    <div class="col-md35 testimonial__single__slider swiper-slide">
+                                    <div class="col-md35 testimonial__single__slider swiper-slide d-flex align-items-stretch">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>The Development of Businesses</h6>
                                         </div>
                                         </a>
@@ -227,91 +217,91 @@
                                     
                                     <div class="col-md-5 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Engineering and Technology </h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Facilities Team</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Finance Team</h6>
                                         </div> 
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Human Resources</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Compliance And Legal Issues</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Advertising And Marketing</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Operations</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Investment In Portfolios</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Portfolio Implementation Team</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Conducting An Investigation</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Investment In Portfolios</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Risk Management Team</h6>
                                         </div>
                                         </a>
                                     </div>
                                     <div class="col-md-3 testimonial__single__slider swiper-slide">
                                         <a href="/departments">
-                                        <div class="testimonial__3__content">
+                                        <div class="testimonial__3__content d-flex flex-column justify-content-center h-100">
                                             <h6>Global Trading Strategies Team</h6>
                                         </div>
                                         </a>

@@ -1,4 +1,5 @@
-// import './bootstrap';
+
+////
 document.addEventListener('DOMContentLoaded', function () {
     function showContent(contentId) {
         const sections = document.querySelectorAll('.content-section');

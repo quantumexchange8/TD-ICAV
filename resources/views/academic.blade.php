@@ -1,4 +1,6 @@
 @extends('layouts.master')
+@section('title', 'Academic Activities and Participation')
+
 @section('content')
 <title>Academic Activities and Participation </title>
 
@@ -38,7 +40,7 @@
                             <span class="text__gradient">Academic Activities and Participation</span>
                         </div>
                         <div class="section__title__heading sp_bottom_10">
-                            <h5 class="text__gradient">Education has been an integral part of our DNA since the establishment of the principles that define NEW-VC-NAME in academic institutions. <span class="text__gradient"></span> </h5>
+                            <h5 class="text__gradient">Education has been an integral part of our DNA since the establishment of the principles that define TD-ICAV in academic institutions. <span class="text__gradient"></span> </h5>
                         </div>
                         <div class="about__text__2 ">
                             <p>We consistently strive to acquire new knowledge. Our company has published an extensive number of journal articles, white papers, and thought leadership pieces in our pursuit of excellence, truth, and clarity in the investment field.</p>
@@ -58,22 +60,22 @@
                         <h4 class="text__gradient">We use a short term for venture capital.</h4>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>We are able to carry our passion for education into the future through our professional development program, the SHORT VC NAME Academy. Whether it is via the enhancement of their skills or the expansion of their horizons, SHORT VC NAME Academy provides assistance to our staff members in determining their full potential. </p>
+                        <p>We are able to carry our passion for education into the future through our professional development program, the TD-ICAV Academy. Whether it is via the enhancement of their skills or the expansion of their horizons, TD-ICAV Academy provides assistance to our staff members in determining their full potential. </p>
                     </div>
                 </div>
                 <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">
                     <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
-                        <h4 class="text__gradient">The Insight Award honors the NEW-VC-NAME.</h4>
+                        <h4 class="text__gradient">The Insight Award honors the TD-ICAV.</h4>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>The NEW-VC-NAME Insight Award is a renowned distinction that recognizes and honors outstanding academic articles that bring a fresh and insightful viewpoint on investment-related topics. The award is given out annually. Up to three papers may each get a reward of one hundred thousand dollars.  </p>
+                        <p>The TD-ICAV Insight Award is a renowned distinction that recognizes and honors outstanding academic articles that bring a fresh and insightful viewpoint on investment-related topics. The award is given out annually. Up to three papers may each get a reward of one hundred thousand dollars.  </p>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>The Asset Management Institute at London Business School, now known as The NEW-VC-NAME Asset Management Institute, collaborates with London Business School to convene academicians, practitioners, policymakers, and regulators to deliberate on the foremost challenges confronting the global investment community today.</p>
+                        <p>The Asset Management Institute at London Business School, now known as The TD-ICAV Asset Management Institute, collaborates with London Business School to convene academicians, practitioners, policymakers, and regulators to deliberate on the foremost challenges confronting the global investment community today.</p>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>The Copenhagen Business School has received the NEW-VC-NAME Top Finance Graduate Award.
-                            Graduate students who are conducting research that has significant real-world implications for the investing community are eligible to receive the NEW-VC-NAME Top Finance Graduate Award. Graduate students can apply for this award. Eminent academicians from various global institutions comprise the selection committee, which manually selects the winners from hundreds of submitted applications. Students are eligible to win a monetary prize for their work when they present their study in Ireland.
+                        <p>The Copenhagen Business School has received the TD-ICAV Top Finance Graduate Award.
+                            Graduate students who are conducting research that has significant real-world implications for the investing community are eligible to receive the TD-ICAV Top Finance Graduate Award. Graduate students can apply for this award. Eminent academicians from various global institutions comprise the selection committee, which manually selects the winners from hundreds of submitted applications. Students are eligible to win a monetary prize for their work when they present their study in Ireland.
                             </p>
                     </div>
                 </div>
