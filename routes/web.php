@@ -1,8 +1,22 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PageController;
+
 Route::get('/', function () {
     return view('index');
+});
+
+Route::get('/private-financial-services', function () {
+    return view('private-financial-services');
+});
+
+Route::get('/wealth-management-services', function () {
+    return view('wealth-management-services');
+});
+
+Route::get('/financial-markets-research', function () {
+    return view('financial-markets-research');
 });
 
 Route::get('/about', function () {
@@ -56,3 +70,5 @@ Route::get('/contact', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+Route::post('mail',[PageController::class, 'mail_send']);

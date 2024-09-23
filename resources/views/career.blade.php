@@ -3,7 +3,6 @@
 
 @section('content')
 
-<title>Career</title>
     <!-- breadcrumbarea__start -->
     <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
         <div class="container">

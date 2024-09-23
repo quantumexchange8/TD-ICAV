@@ -1,3 +1,4 @@
+<script src="{{ asset('js/app.js')}}"></script>
 <div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_1">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
@@ -29,7 +30,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="cryptocurrencies" >
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_2" >
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Cryptocurrencies</h4>
@@ -43,7 +44,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="equities">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_3">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Equities</h4>
@@ -58,7 +59,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="commodities">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="content_section_4">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4> The Commodities</h4>
@@ -83,7 +84,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="financial_planning">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_5">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Financial Planning</h4>
@@ -113,7 +114,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="retirement_planning">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_6">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Retirement Planning</h4>
@@ -126,7 +127,7 @@
     </div>
 </div>
 
-<script>
+{{-- <script>
     document.addEventListener('DOMContentLoaded', function () {
     // Function to show the content section
     function showContent(contentId) {
@@ -174,5 +175,5 @@
         handleHashNavigation(); // Show the section based on the updated URL hash
     });
 });
-</script>
+</script> --}}
 

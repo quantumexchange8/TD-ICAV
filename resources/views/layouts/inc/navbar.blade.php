@@ -39,19 +39,19 @@
                                             </li>
                                             <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown" href="/products">PRODUCTS<i class="icofont-long-arrow-down"></i></a>
                                                 <ul class="headerarea__submenu headerarea__submenu--five--wrap">
-                                                    <li><a href="/products#cryptocurrencies">Cryptocurrencies</a></li>
-                                                    <li><a href="/products#equities">Equities</a></li>
-                                                    <li><a href="/products#commodities">Commodities</a></li>
-                                                    <li><a href="/products#financial_planning">Financial Planning</a></li>
-                                                    <li><a href="/products#retirement_planning">Retirement Planning</a></li>
+                                                    <li><a href="/products">Cryptocurrencies</a></li>
+                                                    <li><a href="/products">Equities</a></li>
+                                                    <li><a href="/products">Commodities</a></li>
+                                                    <li><a href="/products">Financial Planning</a></li>
+                                                    <li><a href="/products">Retirement Planning</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown">PORTFOLIO<i class="icofont-long-arrow-down"></i></a>
+                                            <li class="headerarea__common__dropdown"><a class="headerarea__has__dropdown" href="/portfolios">PORTFOLIO<i class="icofont-long-arrow-down"></i></a>
                                                 <ul class="headerarea__submenu headerarea__submenu--five--wrap">
-                                                    <li><a href="/portfolios#financial_planning_portfolios">Financial Planning Portfolios</a></li>
-                                                    <li><a href="/portfolios#programs_of_advisory">The Programs of Advisory </a></li>
-                                                    <li><a href="/portfolios#portfolios_that_are_personalized">Portfolios that are Personalized </a></li>
-                                                    <li><a href="/portfolios#providers_of_advisory_services">Providers of Advisory Services </a></li>
+                                                    <li><a href="/portfolios">Financial Planning Portfolios</a></li>
+                                                    <li><a href="/portfolios">The Programs of Advisory </a></li>
+                                                    <li><a href="/portfolios">Portfolios that are Personalized </a></li>
+                                                    <li><a href="/portfolios">Providers of Advisory Services </a></li>
                                                 </ul>
                                             </li>
                                             <li><a href="/featured">FEATURED </a></li>
@@ -63,7 +63,7 @@
                             <div class="headerarea__component">
                                 <div class="headerarea__right">
                                     <div class="headerarea__button">
-                                        <a class="default__button btn__white" href="/login">LOGIN</a>
+                                        <a class="default__button btn__white" href="https://app.tdicav.com/accounts/login">LOGIN</a>
                                     </div>
                                 </div>
                             </div>
@@ -87,7 +87,7 @@
                             <div class="headerarea__right">
                                 <div class="headerarea__cart__wraper">
                                 <div class="headerarea__button">
-                                    <a class="default__button" href="/login">Login</a>
+                                    <a class="default__button" href="https://app.tdicav.com/accounts/login">Login</a>
                                 </div>
                             </div>
                         </div>

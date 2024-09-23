@@ -2,7 +2,6 @@
 @section('title', 'Login')
 
 @section('content')
-<title>Login</title>
 
 <!-- breadcrumbarea__start -->
 <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
@@ -74,7 +73,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="tab-pane fade" id="projects__two" role="tabpanel" aria-labelledby="projects__two">
+                <div class="tab-pane fade" id="projecfinancial-markets-rsearchts__two" role="tabpanel" aria-labelledby="projects__two">
                     <div class="col-xl-8 col-lg-8 offset-xl-2 offset-lg-2 col-md-12 col-12">
                         <div class="loginarea__wraper">
                             <div class="loginarea__heading">

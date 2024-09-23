@@ -2,8 +2,6 @@
 @section('title', 'Contact Us')
 
 @section('content')
-<script src="{{ asset('js/app.js')}}"></script>
-<title>Contact Us</title>
 <main class="main_wrapper ">
 
 <!-- breadcrumbarea__start -->
@@ -48,16 +46,17 @@
                     <p>Please fill out the contact form below and we will connect you with an TD-ICAV team member.</p>
                 </div>
                 <div class="contact__input__wrapper contact__grident__bg">
-                    <form id="contact-form" class="contact-form" action="mail.php" method="post">
+                    <form id="contact-form" class="contact-form" action="{{ url('mail') }}" method="post">
+                        @csrf
                         <div class="row">
                             <div class="col-xl-6">
                                 <div class="contact__input">
-                                    <input class="contact__common__input" type="text" name="con_fname" id="con_fname" placeholder="First Name">
+                                    <input class="contact__common__input" type="text" name="fname" id="fname" placeholder="First Name">
                                 </div>
                             </div>
                             <div class="col-xl-6">
                                 <div class="contact__input">
-                                    <input class="contact__common__input" type="text" name="con_lname" id="con_lname" placeholder="Last Name">
+                                    <input class="contact__common__input" type="text" name="lname" placeholder="Last Name">
                                 </div>
                             </div>
                             <div class="col-xl-12">
@@ -67,7 +66,7 @@
                             </div>
                             <div class="col-xl-12">
                                 <div class="contact__input">
-                                    <input class="contact__common__input" type="text" name="company" placeholder="Title / Position ">
+                                    <input class="contact__common__input" type="text" name="title" placeholder="Title / Position ">
                                 </div>
                             </div>
                             <div class="col-xl-12">
@@ -81,7 +80,7 @@
                                 </div>
                             </div>
                             <div class="col-xl-12">
-                                <select class="contact__common__input" name="inquirytype" id="inquirytype" placeholder="Inquiry Type">
+                                <select class="contact__common__input" name="inquirytype" placeholder="Inquiry Type">
                                     <option value="type">Inquiry Type: </option>
                                     <option value="a">a</option>
                                     <option value="b">b</option>
@@ -89,7 +88,7 @@
                                 </select>
                             </div>
                             <div class="col-xl-12">
-                                <textarea class="contact__common__input" name="con_message" id="con_message" placeholder="Write Your Inquiry Here..." cols="30" rows="10"></textarea>
+                                <textarea class="contact__common__input" name="message" placeholder="Write Your Inquiry Here..." cols="30" rows="10"></textarea>
                             </div>
                             <div class="col-xl-12">
                                 <div class="contact__button">

@@ -2,7 +2,6 @@
 @section('title', 'Academic Activities and Participation')
 
 @section('content')
-<title>Academic Activities and Participation </title>
 
 <!-- breadcrumbarea__start -->
 <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">

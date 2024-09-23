@@ -2,10 +2,9 @@
 @section('title', 'Portfolios')
 
 @section('content')
-@push('scripts')
+{{-- @push('scripts')
 <script src="{{ asset('js/app.js')}}"></script>
-@endpush
-<title>Portfolios</title>
+@endpush --}}
 
     <!-- breadcrumbarea__start -->
     <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
@@ -43,22 +42,22 @@
                             <div class="sidebar__list">
                                 <ul>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="financial_planning_portfolios">Financial Planning Portfolios
+                                        <a class="sidebar__common__input" data-content="content_section_1">Financial Planning Portfolios
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="programs_of_advisory">The Programs of Advisory
+                                        <a class="sidebar__common__input" data-content="content_section_2">The Programs of Advisory
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="portfolios_that_are_personalized">Portfolios that are Personalized 
+                                        <a class="sidebar__common__input" data-content="content_section_3">Portfolios that are Personalized 
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="providers_of_advisory_services">Providers of Advisory Services 
+                                        <a class="sidebar__common__input" data-content="content_section_4">Providers of Advisory Services 
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>

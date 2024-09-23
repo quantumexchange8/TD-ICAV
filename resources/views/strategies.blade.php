@@ -2,8 +2,6 @@
 @section('title', 'Strategies & Methodologies')
 
 @section('content')
-<title>Strategies & Methodologies</title>
-
 <!-- breadcrumbarea__start -->
 <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
     <div class="container">

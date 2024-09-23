@@ -1,7 +1,6 @@
 @extends('layouts.master')
 @section('title', 'Our Approach to Methodology')
 @section('content')
-<title>Our Approach to Methodology</title>
 
 <!-- breadcrumbarea__start -->
 <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">

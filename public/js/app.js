@@ -1,4 +1,3 @@
-
 ////
 document.addEventListener('DOMContentLoaded', function () {
     function showContent(contentId) {
@@ -19,4 +18,3 @@ document.addEventListener('DOMContentLoaded', function () {
     });
     showContent('content_section_1');
 });
-
