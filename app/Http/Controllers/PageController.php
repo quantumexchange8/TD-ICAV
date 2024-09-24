@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
@@ -22,7 +21,7 @@ class PageController extends Controller
     ]);
 
     $user = (object) $validatedData;
-    Mail::to('jrjrjrjingru@gmail.com')->send(new ContactMail($user));
+    Mail::to('admin@tdicav.com')->send(new ContactMail($user));
 
     // Flash success message
     session()->flash('success', 'Email sent successfully!');

@@ -1,5 +1,4 @@
-<script src="{{ asset('js/app.js')}}"></script>
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_1">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="portfolio1">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Financial Planning Portfolios </h4>
@@ -14,7 +13,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_2" >
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="portfolio2" >
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>The Programs of Advisory </h4>
@@ -40,7 +39,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_3">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="portfolio3">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Portfolios that are Personalized </h4>
@@ -60,7 +59,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_4">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="portfolio4">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Providers of Advisory Services</h4>
@@ -84,3 +83,40 @@
         </div>
     </div>
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        function showContent(contentId) {
+            const sections = document.querySelectorAll('.content-section');
+            sections.forEach(section => section.style.display = 'none'); 
+            const selectedSection = document.getElementById(contentId);
+            if (selectedSection) {
+                selectedSection.style.display = 'block';
+            }
+        }
+        // Function to handle hash navigation when the page loads or hash changes
+        function handleHashNavigation() {
+            const hash = window.location.hash.substring(1); // Get the hash without the '#'
+            if (hash) {
+                showContent(hash); // Show the section based on the hash
+            } else {
+                showContent('portfolio1'); // Default section if no hash is present
+            }
+        }
+        // Initial check for hash when the page loads
+        handleHashNavigation();
+    
+        // Listen for hash changes (in case the user clicks on a navbar link or back/forward buttons)
+        window.addEventListener('hashchange', handleHashNavigation);
+    
+        const links = document.querySelectorAll('.sidebar__common__input');
+        links.forEach(link => {
+            link.addEventListener('click', function (e) {
+                e.preventDefault(); 
+                const contentId = this.getAttribute('data-content');
+                showContent(contentId); 
+                history.pushState(null, null, `#${contentId}`);
+            });
+        });
+    });
+    </script>

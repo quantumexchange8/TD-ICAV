@@ -1,6 +1,5 @@
 @extends('layouts.master')
 @section('title', 'Featured')
-
 @section('content')
 
 <!-- breadcrumbarea__start -->

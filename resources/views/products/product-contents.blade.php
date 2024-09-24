@@ -1,5 +1,4 @@
-<script src="{{ asset('js/app.js')}}"></script>
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_1">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="product1">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Introduction</h4>
@@ -30,7 +29,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_2" >
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="product2" >
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Cryptocurrencies</h4>
@@ -44,7 +43,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_3">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="product3">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Equities</h4>
@@ -59,10 +58,10 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="content_section_4">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section"  id="product4">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
-            <h4> The Commodities</h4>
+            <h4>The Commodities</h4>
         </div>
         <div class="service__details__planning__inner service__details__text" data-aos="fade-up" data-aos-duration="1500">
             <p>The commodities that are used in everyday life, such as gold, silver, and oil, have a tremendous impact on that existence. As a result of their persistent existence in the modern world, several investors have recognized them as a reliable component of a portfolio that represents a comprehensive approach to investment. It is possible that incorporating commodities into your investing plan might be beneficial, depending on the financial goals you have set for yourself and the investments you already have now in your portfolio. We provide a wide range of goods to consumers in the industrial and financial sectors all around the world for their use. As a reliable and competitive business partner, we have earned a reputation for excellence. As our start-up firms grow and evolve into global leaders, it is our obligation to give them with the necessary assistance they require to fulfill their potential. The consistent commitment that we have shown to the development of companies and the following trading procedure has been the driving force behind our success in the commodities market. </p>
@@ -84,7 +83,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_5">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="product5">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Financial Planning</h4>
@@ -114,7 +113,7 @@
     </div>
 </div>
 
-<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_6">
+<div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="product6">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
             <h4>Retirement Planning</h4>
@@ -127,53 +126,39 @@
     </div>
 </div>
 
-{{-- <script>
-    document.addEventListener('DOMContentLoaded', function () {
-    // Function to show the content section
+<script>
+document.addEventListener('DOMContentLoaded', function () {
     function showContent(contentId) {
-        const sections = document.querySelectorAll('.content-section'); 
-        sections.forEach(section => section.style.display = 'none'); // Hide all sections
-
+        const sections = document.querySelectorAll('.content-section');
+        sections.forEach(section => section.style.display = 'none');
         const selectedSection = document.getElementById(contentId);
         if (selectedSection) {
-            selectedSection.style.display = 'block'; // Show the selected section
-        }
-
-        // Only update the URL hash if we are on the 'products' page
-        if (window.location.pathname === '/products') {
-            history.pushState(null, null, `#${contentId}`);
+            selectedSection.style.display = 'block'; 
         }
     }
-
-    // Function to handle navigation through the hash on page load or back/forward navigation
+    // Function to handle hash navigation when the page loads or hash changes
     function handleHashNavigation() {
-        if (window.location.pathname === '/products') { // Only execute if on 'products' page
-            const hash = window.location.hash.substring(1); // Get the hash (without #)
-            if (hash) {
-                showContent(hash); // Show the section based on the hash
-            } else {
-                showContent('content_section_1'); // Default section
-            }
+        const hash = window.location.hash.substring(1); // Get the hash without the '#'
+        if (hash) {
+            showContent(hash); // Show the section based on the hash
+        } else {
+            showContent('product1'); // Default section if no hash is present
         }
     }
+    // Initial check for hash when the page loads
+    handleHashNavigation();
 
-    // Add event listeners to the sidebar links
+    // Listen for hash changes (in case the user clicks on a navbar link or back/forward buttons)
+    window.addEventListener('hashchange', handleHashNavigation);
+
     const links = document.querySelectorAll('.sidebar__common__input');
     links.forEach(link => {
         link.addEventListener('click', function (e) {
-            e.preventDefault(); // Prevent default link behavior
-            const contentId = this.getAttribute('data-content'); // Get the target section ID
-            showContent(contentId); // Show the corresponding section
+            e.preventDefault();
+            const contentId = this.getAttribute('data-content'); 
+            showContent(contentId); 
+            history.pushState(null, null, `#${contentId}`);
         });
     });
-
-    // Initial check when the page is loaded (for direct hash access)
-    handleHashNavigation();
-
-    // Handle browser back/forward buttons
-    window.addEventListener('popstate', function () {
-        handleHashNavigation(); // Show the section based on the updated URL hash
-    });
 });
-</script> --}}
-
+</script>

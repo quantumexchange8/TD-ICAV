@@ -1,5 +1,3 @@
-<script src="{{ asset('js/app.js')}}"></script>
-
 <div class="col-xl-8 col-lg-8 col-md-12 col-12 content-section" id="content_section_1">
     <div class="service__details__wraper">
         <div class="service__details__heading text__gradient" data-aos="fade-up" data-aos-duration="1500">
@@ -147,3 +145,24 @@
     </div>
 </div>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        function showContent(contentId) {
+            const sections = document.querySelectorAll('.content-section');
+            sections.forEach(section => section.style.display = 'none'); 
+            const selectedSection = document.getElementById(contentId);
+            if (selectedSection) {
+                selectedSection.style.display = 'block'; 
+            }
+        }
+        const links = document.querySelectorAll('.sidebar__common__input'); 
+        links.forEach(link => {
+            link.addEventListener('click', function (e) {
+                e.preventDefault(); 
+                const contentId = this.getAttribute('data-content'); 
+                showContent(contentId); 
+            });
+        });
+        showContent('content_section_1');
+    });
+</script>

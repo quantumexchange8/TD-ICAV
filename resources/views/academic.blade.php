@@ -1,6 +1,5 @@
 @extends('layouts.master')
 @section('title', 'Academic Activities and Participation')
-
 @section('content')
 
 <!-- breadcrumbarea__start -->
@@ -73,14 +72,11 @@
                         <p>The Asset Management Institute at London Business School, now known as The TD-ICAV Asset Management Institute, collaborates with London Business School to convene academicians, practitioners, policymakers, and regulators to deliberate on the foremost challenges confronting the global investment community today.</p>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>The Copenhagen Business School has received the TD-ICAV Top Finance Graduate Award.
-                            Graduate students who are conducting research that has significant real-world implications for the investing community are eligible to receive the TD-ICAV Top Finance Graduate Award. Graduate students can apply for this award. Eminent academicians from various global institutions comprise the selection committee, which manually selects the winners from hundreds of submitted applications. Students are eligible to win a monetary prize for their work when they present their study in Ireland.
-                            </p>
+                        <p>The Copenhagen Business School has received the TD-ICAV Top Finance Graduate Award. Graduate students who are conducting research that has significant real-world implications for the investing community are eligible to receive the TD-ICAV Top Finance Graduate Award. Graduate students can apply for this award. Eminent academicians from various global institutions comprise the selection committee, which manually selects the winners from hundreds of submitted applications. Students are eligible to win a monetary prize for their work when they present their study in Ireland.</p>
                     </div>
                 </div>
-           
-    </div>
-    </div>
+            </div>
+        </div>
     </div>
 </div>
     <!-- about__section__end-->

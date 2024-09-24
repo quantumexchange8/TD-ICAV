@@ -32,12 +32,8 @@
 
         <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4 class="text__gradient">Last Words and Reflections </h4>
+            <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">
             <p>The TD-ICAV Macro Wrap-Up is a weekly summary that focuses on macroeconomic topics for clients. Clients receive this summary. Specifically, this article investigates the influence that recent events have on the movements and reactions of the market.</p>
-            <p>Additional Wrap-Ups for Macroeconomics: </p>
-        </div>
-        <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">
-            <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                
             </div>
         </div>
 
@@ -53,41 +49,41 @@
                     </div>
                 </div>
             </div>
-                <div class="row position-relative">
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
-                        <div class="project__single single__transform">
-                            <div class="project__img project__img--2">
-                                <img src="img/project/project__5.png" alt="">
-                                <div class="project__heading project__heading--2">
-                                    <h3><a href="#">Systematic Investment in Equity Assets</a></h3>
-                                </div>
+            <div class="row position-relative">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
+                    <div class="project__single single__transform">
+                        <div class="project__img project__img--2">
+                            <img src="img/project/project__5.png" alt="">
+                            <div class="project__heading project__heading--2">
+                                <h3><a href="#">Systematic Investment in Equity Assets</a></h3>
                             </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="1800">
-                        <div class="project__single single__transform">
-                            <div class="project__img project__img--2">
-                                <img src="img/project/project__6.png" alt="">
-                                <div class="project__heading project__heading--2">
-                                    <h3><a href="#">A steady source of income through a systematic approach to investment</a></h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="2100">
-                        <div class="project__single single__transform">
-                            <div class="project__img project__img--2">
-                                <img src="img/project/project__7.png" alt="">
-                                <div class="project__heading project__heading--2">
-                                    <h3><a href="#">Prioritization of Alternative Risks</a></h3>
-                                </div>
-                            </div>
-
                         </div>
                     </div>
                 </div>
+
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="1800">
+                    <div class="project__single single__transform">
+                        <div class="project__img project__img--2">
+                            <img src="img/project/project__6.png" alt="">
+                            <div class="project__heading project__heading--2">
+                                <h3><a href="#">A steady source of income through a systematic approach to investment</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12" data-aos="fade-up" data-aos-duration="2100">
+                    <div class="project__single single__transform">
+                        <div class="project__img project__img--2">
+                            <img src="img/project/project__7.png" alt="">
+                            <div class="project__heading project__heading--2">
+                                <h3><a href="#">Prioritization of Alternative Risks</a></h3>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <!-- Related Projects -->

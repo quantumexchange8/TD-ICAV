@@ -1,10 +1,6 @@
 @extends('layouts.master')
 @section('title', 'Portfolios')
-
 @section('content')
-{{-- @push('scripts')
-<script src="{{ asset('js/app.js')}}"></script>
-@endpush --}}
 
     <!-- breadcrumbarea__start -->
     <div class="breadcrumbarea" style="background: url(img/about/about__bg__1.jpg);">
@@ -42,22 +38,22 @@
                             <div class="sidebar__list">
                                 <ul>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="content_section_1">Financial Planning Portfolios
+                                        <a class="sidebar__common__input" data-content="portfolio1">Financial Planning Portfolios
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="content_section_2">The Programs of Advisory
+                                        <a class="sidebar__common__input" data-content="portfolio2">The Programs of Advisory
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="content_section_3">Portfolios that are Personalized 
+                                        <a class="sidebar__common__input" data-content="portfolio3">Portfolios that are Personalized 
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a class="sidebar__common__input" data-content="content_section_4">Providers of Advisory Services 
+                                        <a class="sidebar__common__input" data-content="portfolio4">Providers of Advisory Services 
                                             <i class="icofont-rounded-right"></i>
                                         </a>
                                     </li>

@@ -1,8 +1,6 @@
 @extends('layouts.master')
 @section('title', 'Contact Us')
-
 @section('content')
-<main class="main_wrapper ">
 
 <!-- breadcrumbarea__start -->
 <div class="breadcrumbarea aos-init aos-animate" data-aos="fade-up" style="background: url(img/about/about__bg__1.jpg);">
@@ -78,14 +76,6 @@
                                 <div class="contact__input">
                                     <input class="contact__common__input" type="text" name="phone" placeholder="Phone Number">
                                 </div>
-                            </div>
-                            <div class="col-xl-12">
-                                <select class="contact__common__input" name="inquirytype" placeholder="Inquiry Type">
-                                    <option value="type">Inquiry Type: </option>
-                                    <option value="a">a</option>
-                                    <option value="b">b</option>
-                                    <option value="c">c</option>
-                                </select>
                             </div>
                             <div class="col-xl-12">
                                 <textarea class="contact__common__input" name="message" placeholder="Write Your Inquiry Here..." cols="30" rows="10"></textarea>
