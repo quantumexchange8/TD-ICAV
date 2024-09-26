@@ -24,10 +24,9 @@ class ContactMail extends Mailable
     }
 
     public function build(){
-        return $this->from($this->user->email) // User's email as "from"
+        return $this
         ->subject(config('app.name') . ' - New Inquiry')
-        ->markdown('emails.contact')
-        ->with('user', $this->user); // Pass $user to the email view
+        ->markdown('emails.contact');
     }
 
     /**

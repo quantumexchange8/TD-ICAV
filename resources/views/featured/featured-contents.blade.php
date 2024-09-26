@@ -26,7 +26,6 @@
             <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
                 <h6>A Methodical Approach to Investing</h6>
                 <p>It is essential for systematic investing to have a decision-making process that is rigorous, consistent, and transparent when it comes to investments. In this section, we will discuss the practical application of this strategy as well as its reasoning, which is far more important.</p>
-                <p>Those interested in learning more about systematic investing can get further information by clicking on the following link: systematic investing.</p>
             </div>
         </div>
 
