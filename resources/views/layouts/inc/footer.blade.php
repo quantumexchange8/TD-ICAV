@@ -8,9 +8,11 @@
                             <div class="footercompany__logo">
                                 <img src="img\company logo\TD-portrait-white.png" alt="">
                             </div>
-                            <div class="">
-                                <p>+353 XXX XXXX</p>
-                                <p>33 Sir John Rogerson's Quay,<br> DUBLIN, Ireland, D02 XK09</p>
+                            <div class="footer__menu">
+                                <p class="text-white">33 Sir John Rogerson's Quay,<br> DUBLIN, Ireland, D02 XK09</p>
+                                <br>
+                                <p>TD ICAV is licensed and registered by central bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50"> ref number C417775 </a> </p>
+                                <p><a href ="https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/td-icav/">LEI (Legal Entity Identifier) registered TD ICAV</a></p> 
                             </div>
                         </div>
                     </div>
@@ -56,7 +58,7 @@
                         <div class="copyright__right">
                             <ul>
                                 <li>
-                                    <a href="#">Privacy & Policy ||</a>
+                                    <p>TD ICAV is licensed and registered by central bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50"> ref number C417775 </a> </p>
                                 </li>
                                 <li>
                                     <a href="#">Terms & Conditions</a>
