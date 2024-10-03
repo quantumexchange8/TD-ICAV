@@ -4,5 +4,4 @@
 <p>Title / Position :- {{ $user->title}}</p> 
 <p>Email :- {{ $user->email}}</p>
 <p>Phone Number :- {{ $user->phone}}</p>
-<p>Inquiry Type :- {{ $user->inquirytype}}</p>
 <p>Message :- {{ $user->message}}</p>

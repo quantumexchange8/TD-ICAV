@@ -87,7 +87,7 @@
                         <div class="headerarea__right">
                             <div class="headerarea__cart__wraper">
                             <div class="headerarea__button">
-                                <a class="default__button" href="https://app.tdicav.com/accounts/login">Login</a>
+                                <a class="default__button btn__white" href="https://app.tdicav.com/accounts/login">Login</a>
                             </div>
                         </div>
                     </div>

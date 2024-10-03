@@ -9,23 +9,22 @@ use Illuminate\Mail\Mailables\Content;
 use Illuminate\Mail\Mailables\Envelope;
 use Illuminate\Queue\SerializesModels;
 
-class ContactMail extends Mailable
+class AutoReplyMail extends Mailable
 {
     use Queueable, SerializesModels;
 
     public $user;
-
     /**
      * Create a new message instance.
-     */  
+     */
     public function __construct($user)
     {
         $this->user = $user;
     }
 
     public function build(){
-        return $this->markdown('emails.contact')
-        ->subject(config('app.name') . ' - New Inquiry');
+        return $this->markdown('emails.reply')
+        ->subject(config('app.name') . ' - Thank You For Your Inquiry');
     }
 
     /**
@@ -34,7 +33,7 @@ class ContactMail extends Mailable
     public function envelope(): Envelope
     {
         return new Envelope(
-            subject: 'New Inquiry',
+            subject: 'Auto Reply Mail',
         );
     }
 
