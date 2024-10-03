@@ -9,10 +9,10 @@
                                 <img src="img\company logo\TD-portrait-white.png" alt="">
                             </div>
                             <div class="footer__menu">
-                                <p class="text-white">33 Sir John Rogerson's Quay,<br> DUBLIN, Ireland, D02 XK09</p>
+                                <p class="text-white">33 Sir John Rogerson's Quay,<br> Dublin, Ireland, D02 XK09</p>
                                 <br>
-                                <p>TD ICAV is licensed and registered by central bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50"> ref number C417775 </a> </p>
-                                <p><a href ="https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/td-icav/">LEI (Legal Entity Identifier) registered TD ICAV</a></p> 
+                                <p>TD ICAV is licensed and registered by Central Bank of Ireland <a href="https://registers.centralbank.ie/FundRegisterDataPage.aspx?fundReferenceNumber=C417775&register=50"> Reference No: C417775 </a> </p>
+                                <p><a href ="https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/td-icav/">LEI (Legal Entity Identifier) Code: 254900G6NYFVOQQSVT12</a></p> 
                             </div>
                         </div>
                     </div>
