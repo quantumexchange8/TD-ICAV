@@ -72,9 +72,15 @@
         <div class="service__details__planning" data-aos="fade-up" data-aos-duration="1500">
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                    <br><br>
+                    <div class="service__details__planning__img">
+                        <img src="img/service/service__13.png" alt="">
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                     <div class="service__details__planning__inner">
                         <div class="service__details__planning__text">
-                            <p> We work to maximize your returns while simultaneously minimizing the risk that is connected with the investment plan you have chosen or implemented. For the purpose of making well-informed investment decisions, your personal adviser will provide assistance in monitoring commodity indexes and applying the information obtained from this monitoring. </p>
+                            <p>We work to maximize your returns while simultaneously minimizing the risk that is connected with the investment plan you have chosen or implemented. For the purpose of making well-informed investment decisions, your personal adviser will provide assistance in monitoring commodity indexes and applying the information obtained from this monitoring. </p>
                         </div>
                     </div>
                 </div>
