@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-12">
                         <div class="copyright__left">
-                            <p>Copyright © {{now()->year}} <a href="/">TD-ICAV</a> All Right Reserved</p>
+                            <p>Copyright © <a href="/">TD ICAV's</a> All Right Reserved</p>
                         </div>
                     </div>
                     {{-- <div class="col-xl-6 col-lg-6 col-md-6 col-12">
