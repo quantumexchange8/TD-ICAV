@@ -14,7 +14,7 @@ Thank you for your patience, and we hope you have a great day.
 Best regards,  
 <strong>TD ICAV</strong>
 
-Location: 33 Sir John Rogerson's Quay, DUBLIN, Ireland, D02 XK09
+Location: 33 Sir John Rogerson's Quay, Dublin, Ireland, D02 XK09
 
 Call Us: <a href="tel:+35315259775">+353 1525 9775</a>
 @endcomponent
