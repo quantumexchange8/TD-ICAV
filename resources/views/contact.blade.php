@@ -220,7 +220,7 @@
                         <div class="contact__text">
                             <h6>Location:</h6>
                             <p>33 Sir John Rogerson's Quay,</p>
-                            <p>DUBLIN, Ireland, D02 XK09</p>
+                            <p>Dublin, Ireland, D02 XK09</p>
                         </div>
                     </div>
                 </div>
