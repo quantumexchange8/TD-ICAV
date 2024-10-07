@@ -13,7 +13,7 @@
                         </div>
                         <div class="breadcrumbarea__inner">
                             <ul>
-                                <li><a href="/index">Home</a></li>
+                                <li><a href="/">Home</a></li>
                                 <li>// </li>
                                 <li> Portfolios </li>
                             </ul>
