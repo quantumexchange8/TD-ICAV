@@ -32,7 +32,7 @@
         <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
             <h4 class="text__gradient">Last Words and Reflections </h4>
             <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">
-            <p>The TD-ICAV Macro Wrap-Up is a weekly summary that focuses on macroeconomic topics for clients. Clients receive this summary. Specifically, this article investigates the influence that recent events have on the movements and reactions of the market.</p>
+            <p>The TD ICAV Macro Wrap-Up is a weekly summary that focuses on macroeconomic topics for clients. Clients receive this summary. Specifically, this article investigates the influence that recent events have on the movements and reactions of the market.</p>
             </div>
         </div>
 

@@ -42,7 +42,7 @@
                 <div class="col-xl-12">
                     <div class="section__title text-center sp_bottom_90">
                         <div class="herobanner__title">
-                            <h3>TD-ICAV is committed to growing our client’s wealth through our deeply embedded culture of service and client centricity.</h3>
+                            <h3>TD ICAV is committed to growing our client’s wealth through our deeply embedded culture of service and client centricity.</h3>
                         </div>
                         <div class="section__title__text">
                             <p>Our investment approach is hands-on and straightforward. We rely on our own first-hand research. </p>

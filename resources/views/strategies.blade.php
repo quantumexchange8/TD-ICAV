@@ -117,7 +117,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                            <p>The Risk Management team is responsible for monitoring all financial and non-financial hazards in our organization. These risks include market and liquidity risk, counterparty risk, model risk, operational risk, and technology risk. All decisions pertaining to risk are subject to a different governance framework, which places an emphasis on the team's autonomy in comparison to other business division operations. At TD-ICAV, our Chief Risk Officer directly reports to the Managing and Founding Principal. We believe that it is of the utmost importance for risk management to build a close relationship with the portfolio management team. This will enable the establishment of "two lines of defense" dedicated to the same objectives. Regardless of the circumstances, we remain dedicated to managing portfolios in the face of sudden and severe adverse stress situations.</p>
+                                            <p>The Risk Management team is responsible for monitoring all financial and non-financial hazards in our organization. These risks include market and liquidity risk, counterparty risk, model risk, operational risk, and technology risk. All decisions pertaining to risk are subject to a different governance framework, which places an emphasis on the team's autonomy in comparison to other business division operations. At TD ICAV, our Chief Risk Officer directly reports to the Managing and Founding Principal. We believe that it is of the utmost importance for risk management to build a close relationship with the portfolio management team. This will enable the establishment of "two lines of defense" dedicated to the same objectives. Regardless of the circumstances, we remain dedicated to managing portfolios in the face of sudden and severe adverse stress situations.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -225,14 +225,14 @@
                         <h4 class="text__gradient">Alternate Options </h4>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>As an early pioneer in the field of alternative investing, TD-ICAV has a long history of effectively managing the intricacies of the techniques that fall under this category. Our alternative strategies aim to generate returns in both up and down markets by maintaining a balanced exposure to factors and asset classes, and investing in both long and short positions. We achieve this by maintaining a balanced exposure to both. We provide both absolute return strategies, which seek to maintain zero exposure to conventional markets, either at all times or on average, and total return strategies, which strive to keep some exposure to traditional markets. Both of these strategies are available to potential investors. </p>
+                        <p>As an early pioneer in the field of alternative investing, TD ICAV has a long history of effectively managing the intricacies of the techniques that fall under this category. Our alternative strategies aim to generate returns in both up and down markets by maintaining a balanced exposure to factors and asset classes, and investing in both long and short positions. We achieve this by maintaining a balanced exposure to both. We provide both absolute return strategies, which seek to maintain zero exposure to conventional markets, either at all times or on average, and total return strategies, which strive to keep some exposure to traditional markets. Both of these strategies are available to potential investors. </p>
                     </div>
 
                     <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
                         <h4 class="text__gradient">Strategies with an Absolute Return</h4>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>This approach creates a multi-strategy framework that aggregates nearly all of TD-ICAV's strategies and provides exposure to highly diversified portfolios.</p>
+                        <p>This approach creates a multi-strategy framework that aggregates nearly all of TD ICAV's strategies and provides exposure to highly diversified portfolios.</p>
                     </div>
 
                     <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
@@ -246,7 +246,7 @@
                         <h4 class="text__gradient">The Equity Market is Negative</h4>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>The company employs a market-neutral multi-factor investing strategy based on TD-ICAV's extensive global stock selection expertise. When it comes to investing in main asset classes, we make use of a wide variety of quantitative and qualitative inputs. The goal of Hedge Fund Premia is to efficiently capture a diverse range of traditional hedge fund techniques and deliver them to clients in a transparent and liquid vehicle.</p>
+                        <p>The company employs a market-neutral multi-factor investing strategy based on TD ICAV's extensive global stock selection expertise. When it comes to investing in main asset classes, we make use of a wide variety of quantitative and qualitative inputs. The goal of Hedge Fund Premia is to efficiently capture a diverse range of traditional hedge fund techniques and deliver them to clients in a transparent and liquid vehicle.</p>
                         <p>Managed futures is a diversified strategy that aims to capitalize on price patterns in global asset classes.</p>
                     </div>
 
@@ -276,14 +276,14 @@
                         <h4 class="text__gradient">Long-Short Equity Position </h4>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>The investor maintains a continuous, net-long exposure to the market in addition to using our multi-factor investment approach, which is based on TD-ICAV's largest global stock selection capabilities.</p>
+                        <p>The investor maintains a continuous, net-long exposure to the market in addition to using our multi-factor investment approach, which is based on TD ICAV's largest global stock selection capabilities.</p>
                     </div>
 
                     <div class="blog__details__heading" data-aos="fade-up" data-aos-duration="1500">
                         <h4 class="text__gradient">Balance of Risk </h4>
                     </div>
                     <div class="blog__details__text" data-aos="fade-up" data-aos-duration="1500">
-                        <p>To form a portfolio that is both highly diversified and not overly dependent on any one asset class, we invest across global asset classes based on risk allocation rather than capital. We do this to achieve the goal of constructing a thoroughly diversified portfolio. Attempting to give a thorough exposure to a number of TD-ICAV strategies concurrently, multi-strategy provides a diversified approach to alternative investment. We achieve this by offering all these strategies at the same time.</p>
+                        <p>To form a portfolio that is both highly diversified and not overly dependent on any one asset class, we invest across global asset classes based on risk allocation rather than capital. We do this to achieve the goal of constructing a thoroughly diversified portfolio. Attempting to give a thorough exposure to a number of TD ICAV strategies concurrently, multi-strategy provides a diversified approach to alternative investment. We achieve this by offering all these strategies at the same time.</p>
                     </div>
                 </div>
             </div>
@@ -293,7 +293,7 @@
                 <h3 class="text__gradient">The ESG </h3>
             </div>
             <div class="blog__details__img__wrapper" data-aos="fade-up" data-aos-duration="1500">
-                <p>Our company, TD-ICAV, is committed to aiding our clients in accomplishing their Environmental, Social, and Governance (ESG) goals. We evaluate environmental, social, and governance (ESG) concerns with the primary objective of improving the risk-to-reward ratio of our customers' investments. </p>
+                <p>Our company, TD ICAV, is committed to aiding our clients in accomplishing their Environmental, Social, and Governance (ESG) goals. We evaluate environmental, social, and governance (ESG) concerns with the primary objective of improving the risk-to-reward ratio of our customers' investments. </p>
                 <h4 class="text__gradient">Policies and Solutions for ESG<span class="text__gradient"></span> </h4>
                 <p>We provide investors with a wide variety of options to assist them in accomplishing their environmental, social, and governance goals. When you click on this link, you will be able to learn more about our ESG solutions and philosophy. </p>
             </div>
@@ -306,7 +306,7 @@
                     <div class="section__title section__title--2  sp_bottom_10">
                         <div class="section__title__heading sp_bottom_10">
                             <h4 class="text__gradient">The Vehicles for Investment <span class="text__gradient"></span> </h4>
-                            <p>Through a wide variety of investment structures, such as offshore limited partnerships and mutual funds, a wide variety of investors have the opportunity to gain access to TD-ICAV strategies. </p>
+                            <p>Through a wide variety of investment structures, such as offshore limited partnerships and mutual funds, a wide variety of investors have the opportunity to gain access to TD ICAV strategies. </p>
                         </div>
                         <div class="about__text__2 ">
                             <p>We give institutional investors, such as pension funds, defined contribution plans, insurance companies, endowments, and foundations, a choice of vehicles that are suited to the governance, pricing, and liability needs of their organization. These vehicles include pension funds, investment funds, and defined contribution plans. </p>
@@ -337,7 +337,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>We enable ordinary investors to access a wide range of our strategies through the mutual funds sponsored by TD-ICAV. In addition to this, we provide a wide range of choices to investors in both Europe and Australia. Make sure to get in touch with us if you require any further information. </p>
+                                        <p>We enable ordinary investors to access a wide range of our strategies through the mutual funds sponsored by TD ICAV. In addition to this, we provide a wide range of choices to investors in both Europe and Australia. Make sure to get in touch with us if you require any further information. </p>
                                         </div> 
                                         </div>
                                     </div>
@@ -355,7 +355,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                            <p>Your departure from TD-ICAV (link to) is currently in progress. You are about to transition from TD-ICAV (link to) to U.S. Mutual Funds. We would like to bring to your attention the possibility that the rules and regulations that govern the website of U.S. Mutual Funds may be significantly different from those that govern the website of TD-ICAV (link to). With this in mind, it is possible that it is not appropriate for residents of all jurisdictions. The Terms of Use displayed on the online platform govern your access to and use of the U.S. Mutual Funds website. When you leave TD-ICAV (link to), your browser will redirect you to UCITS. We'd like to bring to your attention the possibility that the UCITS website may be subject to laws and regulations that are significantly different from those that apply to the TD-ICAV (link to). This could potentially make the UCITS website inappropriate for individuals residing in all jurisdictions. The Terms of Use displayed on the UCITS website directly govern your access to and use of the website.</p>
+                                            <p>Your departure from TD ICAV (link to) is currently in progress. You are about to transition from TD ICAV (link to) to U.S. Mutual Funds. We would like to bring to your attention the possibility that the rules and regulations that govern the website of U.S. Mutual Funds may be significantly different from those that govern the website of TD ICAV (link to). With this in mind, it is possible that it is not appropriate for residents of all jurisdictions. The Terms of Use displayed on the online platform govern your access to and use of the U.S. Mutual Funds website. When you leave TD ICAV (link to), your browser will redirect you to UCITS. We'd like to bring to your attention the possibility that the UCITS website may be subject to laws and regulations that are significantly different from those that apply to the TD ICAV (link to). This could potentially make the UCITS website inappropriate for individuals residing in all jurisdictions. The Terms of Use displayed on the UCITS website directly govern your access to and use of the website.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -374,7 +374,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>When you leave TD-ICAV.com, your browser will redirect you to Australia Funds. It is important that you are aware that the laws and regulations that govern the Australia Funds website may be significantly different from those that govern the TD-ICAV website. This may make the Australia Funds website inappropriate for individuals living in all jurisdictions. The displayed Terms of Use will govern all your access to and use of the Australia Funds website.</p>
+                                        <p>When you leave TD ICAV.com, your browser will redirect you to Australia Funds. It is important that you are aware that the laws and regulations that govern the Australia Funds website may be significantly different from those that govern the TD ICAV website. This may make the Australia Funds website inappropriate for individuals living in all jurisdictions. The displayed Terms of Use will govern all your access to and use of the Australia Funds website.</p>
                                         </div> 
                                         </div>
                                     </div>

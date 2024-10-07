@@ -41,7 +41,7 @@
             </div>
             <div class="col-xl-7 col-lg-7 col-md-12 col-sm-12" data-aos="fade-up" data-aos-duration="1500">
                 <div class="">
-                    <p>Please fill out the contact form below and we will connect you with an TD-ICAV team member.</p>
+                    <p>Please fill out the contact form below and we will connect you with an TD ICAV team member.</p>
                 </div>
                 <div class="contact__input__wrapper contact__grident__bg">
                     <form id="contact-form" class="contact-form" action="{{ url('mail') }}" method="post">
@@ -123,7 +123,7 @@
                     </div>
 
                     <div class="contact__single__item" data-aos="fade-up" data-aos-duration="1500">
-                        <a href = "https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/td-icav/" target="blank">
+                        <a href = "https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/TD ICAV/" target="blank">
                             <div class="contact__icon">
                                 <span>
                                     <svg width="30" height="30" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-gavel">
@@ -152,7 +152,7 @@
                             </div>
                         </a>
                         <div class="contact__text">
-                            <a href = "https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/td-icav/" target="blank">
+                            <a href = "https://lei-ireland.ie/detailed-information/42889800/254900G6NYFVOQQSVT12/TD ICAV/" target="blank">
                             <h6>Legal Entity Identifier (LEI):</h6>
                             <p>254900G6NYFVOQQSVT12</p>
                             </a>

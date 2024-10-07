@@ -113,7 +113,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>Because we are so close to New York City, it is extremely easy to visit all that the city has to offer. Despite the Greenwich location of TD-ICAV, a significant number of our most talented individuals live in Manhattan and travel together via Metro North. They participate in conversations about key ideas, either by exchanging personal experiences or by becoming absorbed in the topic that they find most interesting.</p>    
+                                        <p>Because we are so close to New York City, it is extremely easy to visit all that the city has to offer. Despite the Greenwich location of TD ICAV, a significant number of our most talented individuals live in Manhattan and travel together via Metro North. They participate in conversations about key ideas, either by exchanging personal experiences or by becoming absorbed in the topic that they find most interesting.</p>    
                                         </div> 
                                         </div>
                                     </div>
@@ -150,7 +150,7 @@
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
                                         <p>In this context, work is not the only concern.</p>
-                                        <p> We make it a priority to ensure the health and happiness of our staff members by providing them with a wide range of opportunities and experiences that encourage creativity, self-discovery, and community. Official diversity networks, wellness programs, and community formation are among these measures, both within the TD-ICAV family and in the larger community as a whole. All of your growth is something that we hope to see from you.</p>
+                                        <p> We make it a priority to ensure the health and happiness of our staff members by providing them with a wide range of opportunities and experiences that encourage creativity, self-discovery, and community. Official diversity networks, wellness programs, and community formation are among these measures, both within the TD ICAV family and in the larger community as a whole. All of your growth is something that we hope to see from you.</p>
                                         </div> 
                                         </div>
                                     </div>
@@ -168,7 +168,7 @@
                                     <div class="row">
                                         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
                                         <div class="accordion__text">
-                                        <p>Do you have a strong desire to learn? For those who are interested in beginning their professional adventure and embracing the world, TD-ICAV is an amazing destination. Because of our worldwide network, you will have access to the financial centers that determine the pace of the globe, allowing you to get a thorough grasp of the investing process.</p>
+                                        <p>Do you have a strong desire to learn? For those who are interested in beginning their professional adventure and embracing the world, TD ICAV is an amazing destination. Because of our worldwide network, you will have access to the financial centers that determine the pace of the globe, allowing you to get a thorough grasp of the investing process.</p>
                                         </div> 
                                         </div>
                                     </div>

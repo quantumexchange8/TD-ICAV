@@ -12,7 +12,7 @@ Please note that this is an automated email response. If you have any further qu
 Thank you for your patience, and we hope you have a great day.
 
 Best regards,  
-<strong>TD-ICAV</strong>
+<strong>TD ICAV</strong>
 
 Location: 33 Sir John Rogerson's Quay, DUBLIN, Ireland, D02 XK09
 
