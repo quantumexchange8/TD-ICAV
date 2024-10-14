@@ -10,7 +10,7 @@ However, if you require immediate assistance, do not hesitate to call our helpli
 Please note that this is an automated email response. If you have any further questions or concerns, feel free to reply to this email, and one of our representatives will get back to you shortly.
 <br>
 Thank you for your patience, and we hope you have a great day.
-<br><br>
+<br>
 Best regards,  
 <strong>TD ICAV</strong>
 
