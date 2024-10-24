@@ -80,6 +80,7 @@
                             <div class="col-xl-12">
                                 <textarea class="contact__common__input" name="message" placeholder="Write Your Inquiry Here..." cols="30" rows="10"></textarea>
                             </div>
+                            <input type="hidden" id="recaptcha_token" name="recaptcha_token">
                             <div class="col-xl-12">
                                 <div class="contact__button">
                                     <button type="submit" value="submit" class="default__button" name="submit" >SEND MESSAGE</button>
@@ -244,4 +245,14 @@
     </div>
 </div>
 
+@endsection
+@section('scripts')
+    <script src="https://www.google.com/recaptcha/api.js?render=6LeNjmkqAAAAAPJSevDBKVg3vN2-tagpgZyktR3P"></script>
+    <script>
+        grecaptcha.ready(function() {
+            grecaptcha.execute('{{ env('RECAPTCHA_SITE_KEY') }}').then(function(token) {
+                document.getElementById('recaptcha_token').value = token;
+            });
+        });
+    </script>
 @endsection
