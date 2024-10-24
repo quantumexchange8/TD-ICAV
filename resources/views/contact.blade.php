@@ -247,7 +247,7 @@
 
 @endsection
 @section('scripts')
-    <script src="https://www.google.com/recaptcha/api.js?render=6LeNjmkqAAAAAPJSevDBKVg3vN2-tagpgZyktR3P"></script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Ld6xGoqAAAAAAtqzB9-myrSaBPl3wm4g0gedp7b"></script>
     <script>
         grecaptcha.ready(function() {
             grecaptcha.execute('{{ env('RECAPTCHA_SITE_KEY') }}').then(function(token) {
