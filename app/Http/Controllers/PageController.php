@@ -32,7 +32,7 @@ class PageController extends Controller
     
             if ($responseBody->success && $responseBody->score >= 0.5) {
                 try {
-                    Mail::to('admin@tdicav.org')->send(new ContactMail($request));
+                    Mail::to('admin@tdicav.net')->send(new ContactMail($request));
                     Mail::to($request->input('email'))->send(new AutoReplyMail($request));
                     
                     session()->flash('success', 'Email sent successfully!');
